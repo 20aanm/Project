@@ -39,29 +39,6 @@ def initialize_vocabulary(vocabulary_path):
   else:
     raise ValueError("Vocabulary file %s not found.", vocabulary_path)
 
-
-def init_embedding(from_vocab):
-    f = open(from_vocab, "r", encoding="utf-8")
-    vocab = []
-    for line in f:
-        vocab.append(line.rstrip("\n"))
-
-    word_vectors = KeyedVectors.load_word2vec_format("data/amr_vector.txt")
-
-    emb = []
-    num = 0
-    for i in range(0, len(vocab)):
-        word = vocab[i]
-        if word in word_vectors:
-            num += 1
-            emb.append(word_vectors[word])
-        else:
-            emb.append((0.1 * np.random.random([300]) - 0.05).astype(np.float32))
-    print(" init embedding finished")
-    emb = np.array(emb)
-    # print(num)
-    # print(emb.shape)
-    return emb
 def read_data_graph(src_path, edge_path, ref_path, wvocab, evocab, cvocab):
     data_set = []
     unks = []

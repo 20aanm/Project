@@ -21,6 +21,8 @@ from tensorflow.keras.layers import Embedding, Dense
 from tensorflow.keras.preprocessing.text import Tokenizer
 from nltk.tokenize import sent_tokenize
 from tqdm.notebook import tqdm
+from amrlib.evaluate.smatch_enhanced import compute_scores
+from amrlib.evaluate.bleu_scorer import BLEUScorer
 warnings.filterwarnings('ignore')
 
 UNK_ID = 3
@@ -286,4 +288,7 @@ V = tf.layers.dense(keys,64, activation=None, use_bias=False, name="v")  # (N, T
 # Split and concat
 Q_ = tf.concat(tf.split(Q, 2, axis=2), axis=0)  # (h*N, T_q, C/h)
 K_ = tf.concat(tf.split(K, 2, axis=2), axis=0)  # (h*N, T_k, C/h)
+bleu_scorer = BLEUScorer()
+bleu_score, ref_len, hyp_len = bleu_scorer.compute_bleu(refs, preds)
+print('BLEU score: %5.2f' % (bleu_score*100.))
 """

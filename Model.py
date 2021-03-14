@@ -246,7 +246,6 @@ params['global_exchange_mode']='gru' # rnn layer
 gnn_layer = GNN(params)
 gnn_out =gnn_layer(gnn_input)#[None,32]
 
-# https://www.tensorflow.org/api_docs/python/tf/math/segment_mean
 avg = segment_mean(
     data=gnn_out,
     segment_ids=node2graph

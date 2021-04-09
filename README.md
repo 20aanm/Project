@@ -1,8 +1,8 @@
 # Project
 
 # Requirements
-  # python 3.5
-  # tensorflow 1.5
+  * python 3.5
+  * tensorflow 1.5
   
 # Train GraphTransformer
 

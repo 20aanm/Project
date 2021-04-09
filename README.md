@@ -42,7 +42,7 @@ python Test(LDGCN).py --enc_layers=8 --dec_layers=6 --gcn_num_layers=4 --gcn_dro
 
 
 # Evaluation and Resutls
-* For model evaluation, the resutls of expermiemnts are in the "results folder".
+* For model evaluation, the resutls of expermiemnts are in the "results" folder.
 * The results folder contains the log file of the expermients alongside with the reference and prediction file for each experiment.
 
 ```

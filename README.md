@@ -45,19 +45,4 @@ python Test(LDGCN).py --enc_layers=8 --dec_layers=6 --gcn_num_layers=4 --gcn_dro
 * For model evaluation, the resutls of expermiemnts are in the "results folder".
 * The results folder contains the log file of the expermients alongside with the reference and prediction file for each experiment.
 
-____________________________________________
 
-GraphTransformer blue score 0.5554570250728591
-GraphTransformer chrf score 0.7469863134553557
-
-____________________________________________
-
-DCGCN blue score 0.4052127766461669
-DCGCN chrf score 0.45168985328334743
-
-____________________________________________
-
-LDGCN blue score 0.4450050658086207
-LDGCN chrf score 0.48765242958957455
-
-____________________________________________

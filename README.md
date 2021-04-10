@@ -35,11 +35,11 @@ python Test(LDGCN).py --enc_layers=8 --dec_layers=6 --gcn_num_layers=4 --gcn_dro
 
 Zhang, Y., Guo, Z., Teng, Z., Lu, W., Cohen, S. B., Liu, Z., & Bing, L. (2020). Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. arXiv preprint arXiv:2010.04383.
 
-* DCGCN: model design is mainly based on this approch which is described in <a href="https://github.com/yanzhangnlp/LDGCNs"> LDGCN </a> .
+* DCGCN: model design is mainly based on this approach which is described in <a href="https://github.com/yanzhangnlp/LDGCNs"> LDGCN </a> .
 
      ![image](https://user-images.githubusercontent.com/77679146/114119100-04640400-98b8-11eb-8312-df203d463d81.png)
 
-* LDGCN: model is designed based on the aprroch provided in the LDGCN model for both layerwise and depthwise aspects.
+* LDGCN: model is designed based on the approach provided in the LDGCN model for both layerwise and depthwise aspects.
 
      ![image](https://user-images.githubusercontent.com/77679146/114119206-34aba280-98b8-11eb-9b41-3e2a39a56901.png)
      ![image](https://user-images.githubusercontent.com/77679146/114119220-3bd2b080-98b8-11eb-9a4e-5ad98c285112.png)

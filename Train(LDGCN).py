@@ -67,7 +67,7 @@ def add_arguments(parser):
     parser.add_argument("--num_units", type=int, default=256, help="Size of each model layer")
     parser.add_argument("--num_heads", type=int, default=8, help="Size of each model layer")
     parser.add_argument("--gcn_encoding", type=int, default=True, help="Using GCN encoding")
-    parser.add_argument("--gcn_num_hidden", type=int, default=480, help="Number of hidden layers of GCN")
+    parser.add_argument("--gcn_num_hidden", type=int, default=8, help="Number of hidden layers of GCN")
     parser.add_argument("--gcn_num_layers", type=int, default=4, help="Number of GCN layers")
     parser.add_argument("--gcn_dropout", type=float, default=0.5, help="GCN dropout")
     parser.add_argument("--emb_dim", type=int, default=300, help="Dimension of word embedding")

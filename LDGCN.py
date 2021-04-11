@@ -118,7 +118,7 @@ class LDGCN():
             enc_char_lens = tf.reshape(self.enc_char_lens, [-1])
             embedded_chars = self.input_layer1(tf.nn.embedding_lookup(self.src_embeddings, self.enc_seq_ids))
             portion1, portion2, portion3, portion4 = tf.split(embedded_chars, self.gcn_num_layers, axis=0)
-            filter_shape1 = [self.batch_size, self.batch_size, 1, 1]
+            filter_shape1 = [self.batch_size,self.gcn_num_hidden, 1, 1]
             W1 = tf.Variable(tf.truncated_normal(filter_shape1, stddev=0.1), name="W1")
             b1 = tf.Variable(tf.zeros([1]), name="b1")
             embedded_chars_expanded = tf.expand_dims(embedded_chars, -1)

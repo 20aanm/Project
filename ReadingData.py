@@ -87,7 +87,7 @@ def read_data_graph(src_path, edge_path, ref_path, wvocab, evocab, cvocab, hpara
                                 edge = UNK_ID
 
                             if depth[id1] == 0:
-                                print("fuck")
+                                print("error")
                             if depth[int(id2)] == 0:
                                 depth[int(id2)] = depth[id1] + 1
                                 if depth[int(id2)] > ct_re:

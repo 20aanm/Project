@@ -1,28 +1,44 @@
 # -*- coding: utf-8 -*-
 
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.chrf_score import sentence_chrf
+from nltk.translate import bleu_score
+from tensorflow.python.platform import gfile
+import meteor_score
+import tensorflow.compat.v1 as tf
 
 
-def bleu(reference, predict):
-    """Compute sentence-level bleu score.
 
-    Args:
-        reference (list[str])
-        predict (list[str])
-    """
 
-    if len(predict) == 0:
-        if len(reference) == 0:
-            return 1.0
-        else:
-            return 0.0
 
-    # TODO(kelvin): is this quite right?
-    # use a maximum of 4-grams. If 4-grams aren't present, use only lower n-grams.
-    n = min(4, len(reference), len(predict))
-    weights = tuple([1. / n] * n)  # uniform weight on n-gram precisions
-    return sentence_bleu([reference], predict, weights) 
+def eval_score(file_ref,file_pred, bleu_baseline=False):
+  """Read the dataset"""
+  print("Reading raw data .. ")
+  print("  data path: %s" % file_ref)
+  sentence_ref = []
+  sentence_pred=[]
+  with tf.gfile.GFile(file_ref, mode="r") as ref:
+      for line in ref:
+          sentence_ref.append(line.lower().rstrip("\n"))
+  with tf.gfile.GFile(file_pred, mode="r") as pred:
+        for line in pred:
+          line.replace("_pad","")
+          sentence_pred.append(line.lower().rstrip("\n"))
+
+  #print(sentence_ref)  
+  #print(sentence_pred)  
+  if(bleu_baseline):
+      print("calculating scores ... ")
+      hypothesis = [s for s in sentence_pred]
+      references = [s for s in sentence_ref]
+      #print(hypothesis)
+      #print(references)
+      bleu = corpus_bleu(
+            references, hypothesis,
+            smoothing_function=bleu_score.SmoothingFunction().method1) * 100
+      print("bleu: %.4f" % (bleu*100))
+      print("chrf",chrf(references, hypothesis)*100 )
+      print("meteor",meteor_score.meteor_score(references,str(hypothesis))*100)
 
 
 def chrf(reference, predict):
@@ -41,23 +57,38 @@ def chrf(reference, predict):
 
     # TODO(kelvin): is this quite right?
     # use a maximum of 4-grams. If 4-grams aren't present, use only lower n-grams.
-    return sentence_chrf(reference,predict,1,4) 
+    return sentence_chrf(reference,predict)
+
+
 
 
 print("\n____________________________________________\n")
-score_blue_GT=bleu("ref_file(GT)","predict_file(GT)")
-score_chrf_GT=chrf("ref_file(GT)","predict_file(GT)")
-print("GraphTransformer blue score",score_blue_GT)
-print("GraphTransformer chrf score",score_chrf_GT)
+eval_score("results/ref_file(GT)","results/predict_file(GT)",True)
 print("\n____________________________________________\n")
 
-score_blue_DCGCN=bleu("Reference(DCGCN)","Prediction(DCGCN)")
-score_chrf_DCGCN=chrf("Reference(DCGCN)","Prediction(DCGCN)")
-print("DCGCN blue score",score_blue_DCGCN)
-print("DCGCN chrf score",score_chrf_DCGCN)
+
+print("\n--------------------16 gcn hidden layers-------------------------\n")
+eval_score("results/Reference(DCGCN)","results/Prediction(DCGCN)",True)
 print("\n____________________________________________\n")
-score_blue_LDGCN=bleu("Reference2(LDGCN)","Prediction2(LDGCN)")
-score_chrf_LDGCN=chrf("Reference2(LDGCN)","Prediction2(LDGCN)")
-print("LDGCN blue score",score_blue_LDGCN)
-print("LDGCN chrf score",score_chrf_LDGCN)
+eval_score("results/Reference2(LDGCN)","results/Prediction2(LDGCN)",True)
 print("\n____________________________________________\n")
+
+
+
+#128 hidden layers
+#number of para. is equal to 
+print("\n--------------------128 gcn hidden layers-------------------------\n")
+eval_score("results/Ref(LDGCN)128","results/Pred(LDGCN)128",True)
+print("\n____________________________________________\n")
+
+#number of para. is equal to 26488858
+eval_score("results/Ref(DCGCN)128","results/Pred(DCGCN)128",True)
+
+print("\n____________________________________________\n")
+
+
+# 480 hidden layers
+eval_score("results/Reference(LDGCN)480","results/Prediction(LDGCN)480",True)
+
+print("\n____________________________________________\n")
+

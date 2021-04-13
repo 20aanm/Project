@@ -176,7 +176,7 @@ class LDGCN():
             #if self.use_charlstm:
                  #self.enc_seq_embs = self.enc_char_emb
             if self.gcn_encoding:
-                    self.enc_seq_embs =normalize(self.enc_seq_embs+ self.enc_char_emb_gcn)
+                self.enc_seq_embs =normalize(self.enc_seq_embs+ self.enc_char_emb_gcn)
             if self.is_training:
                 seq_inputs = tf.layers.dropout(self.enc_seq_embs, rate=self.dropout_rate)
             else:
@@ -332,11 +332,8 @@ class LDGCN():
         if self.mode == tf.contrib.learn.ModeKeys.TRAIN:
             with tf.variable_scope("train_op") as scope:
                 self.global_step = tf.Variable(0, trainable=False)
-                #self.lr = noam_scheme(np.power(self.num_units, -0.5) * 0.5, self.global_step, 4000)
-                self.lr = tf.train.polynomial_decay(self.learning_rate,
-                                                                    self.global_step,
-                                                                    self.learning_rate_decay_op, 0.0001,
-                                                                    power=0.5)
+                self.lr = noam_scheme(np.power(self.num_units, -0.5) * 0.5, self.global_step, 4000)
+                #self.lr = tf.train.polynomial_decay(self.learning_rate,self.global_step,self.learning_rate_decay_op, 0.0001,power=0.5)
                 optimizer = tf.train.AdamOptimizer(self.lr, beta1=0.9, beta2=0.98, epsilon=1e-9)
                 gradients, v = zip(*optimizer.compute_gradients(self.loss))
                 self.train_op = optimizer.apply_gradients(zip(gradients, v), global_step=self.global_step)

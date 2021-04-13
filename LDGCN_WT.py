@@ -7,7 +7,7 @@ from ReadingData import *
 #from WeightTie import *
 import random
 import os
-
+#import tensorflow_probability as tfp
 class LDGCN_WT():
     def __init__(self, hparams, mode):
         self.hparams = hparams
@@ -96,8 +96,6 @@ class LDGCN_WT():
 
 
         with tf.variable_scope("project"):
-
-               K.dot(x - self.other_layer.b, K.transpose(self.other_layer.W))
             self.input_layer1 =layers_core.Dense(self.num_units, use_bias=False)
             self.output_layer = layers_core.Dense(self.wvocab_size, use_bias=True)
             self.e1_gate = layers_core.Dense(self.num_units)
@@ -141,7 +139,7 @@ class LDGCN_WT():
             input.append(portion4)
             print(input)
             for i in range(0, 2):
-                conv = tf.nn.conv2d(input[i],
+                conv =tf.nn.conv2d(input[i],
                                     W1,
                                     strides=[1, 1, 1, 1],
                                     padding="SAME",
@@ -171,8 +169,8 @@ class LDGCN_WT():
                 output = tf.nn.relu(tf.nn.bias_add(conv, b1), name="relu")
                 output = tf.layers.dropout(output, rate=self.gcn_dropout)
                 gcn_layers.append(output)
-            output=tf.layers.dense(tf.concat(gcn_layers, axis=-1), 1,activation='leaky_relu', use_bias=True)
-            self.enc_char_emb_gcn = tf.reshape(output, [-1, self.max_src_length, self.num_units])+softmax_b
+            output=tf.layers.dense(tf.concat(gcn_layers, axis=1), 1,activation=None, use_bias=True)
+            self.enc_char_emb_gcn = tf.reshape(output, [-1, self.max_src_length, self.num_units])
 
         with tf.variable_scope("encoder") as scope:
             self.enc_word_emb = self.input_layer1(tf.nn.embedding_lookup(self.src_embeddings, self.enc_seq_ids))

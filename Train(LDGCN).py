@@ -214,7 +214,7 @@ def count_number_trainable_params():
         shape = trainable_variable.get_shape() # e.g [D,F] or [W,H,C]
         current_nb_params = get_nb_params_shape(shape)
         tot_nb_params = tot_nb_params + current_nb_params
-    return tot_nb_params*12/16 # the first layerwise conv +depthwise is equal to 12 but for the use of one gcn it's almost equal 16
+    return tot_nb_params
 def get_nb_params_shape(shape):
     '''
     Computes the total number of params for a given shap.
@@ -239,7 +239,7 @@ def train(hparams):
                                              "data/valid.tgt",
                                              wvocab, evocab, cvocab, hparams)
 
-
+    #print(len(valid_data))
     train_model, eval_model, infer_model = create_model(hparams, LDGCN)
     config = get_config_proto(
         log_device_placement=False)
@@ -261,28 +261,36 @@ def train(hparams):
             train_sess.run(tf.global_variables_initializer())
             global_step = 0
             print("Number of trainable parameters: %d" % count_number_trainable_params())
-    step_loss, step_time, total_predict_count, total_loss, total_time, avg_loss, avg_time = 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+    step_loss_train, step_time_train, total_predict_count_train, total_loss_train, total_time_train, avg_loss_train, avg_time_train = 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+    step_loss_val, step_time_val, total_predict_count_val, total_loss_val, total_time_val, avg_loss_val, avg_time_val = 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+    ppl_val=0
+    Early_stop=10
+    epoch_count=0
     epoch_step = int((len(train_data) -1)/hparams.batch_size) + 1
     now_step = 0
     random.shuffle(train_data)
-    while global_step <= 100:
+    while global_step <= 1000:
         start_time = time.time()
 
-        step_loss, global_step, predict_count = train_model.model.train_step(train_sess, train_data, no_random=True, id=now_step * hparams.batch_size)
+        step_loss_train, global_step, predict_count_train = train_model.model.train_step(train_sess, train_data, no_random=True, id=now_step * hparams.batch_size)
         now_step += 1
-        total_loss += step_loss
-        total_time += (time.time() - start_time)
-        total_predict_count += predict_count
+        total_loss_train += step_loss_train
+        total_time_train += (time.time() - start_time)
+        total_predict_count_train += predict_count_train
         if global_step >=1:
-            ppl = safe_exp(total_loss / total_predict_count)
-            avg_loss = total_loss/global_step
-            avg_time = total_time/global_step
-            #total_loss, total_predict_count, total_time = 0.0, 0.0, 0.0
-            print("Epoch(%d)   step-time %.2fs  loss %.3f ppl %.2f" % (global_step, avg_time, avg_loss, ppl))
+            ppl = safe_exp(total_loss_train / total_predict_count_train)
+            avg_loss_train = total_loss_train/global_step
+            avg_time_train = total_time_train/global_step
+            total_loss_train, total_predict_count_train, total_time_train= 0.0, 0.0, 0.0
+            print("Epoch(%d)   step-time %.2fs  loss %.3f ppl %.2f" % (global_step, avg_time_train, avg_loss_train, ppl))
             train_ppl = ppl
             with open('train_epochs.txt', 'a', encoding='utf-8') as f:
-                f.write("Epoch(%d)   step-time %.2fs  loss %.3f ppl %.2f" % (global_step, avg_time, avg_loss, ppl)+"\n")
-
+                f.write("Epoch(%d)   step-time %.2fs  loss %.3f ppl %.2f" % (global_step, avg_time_train, avg_loss_train, ppl)+"\n")
+            with open('train_loss.txt', 'a' ,encoding='utf-8') as f:
+                f.write( str(avg_loss_train)+"\n")
+            with open('train_ppl.txt', 'a', encoding='utf-8') as f:
+                f.write(str(ppl)+"\n")
+            total_loss_train, total_predict_count_train, total_time_train = 0.0, 0.0, 0.0
         if now_step == epoch_step:
             now_step = 0
             random.shuffle(train_data)
@@ -293,14 +301,40 @@ def train(hparams):
                 print("loading model.........")
             else:
                 raise ValueError("epoch file not found.")
-            for id in range(int(len(valid_data) / hparams.batch_size)):
-                step_loss, predict_count = eval_model.model.eval_step(eval_sess, valid_data.copy(), no_random=True, id=id * hparams.batch_size)
-                total_loss += step_loss
-                total_predict_count += predict_count
-                print(step_loss)
-            ppl = safe_exp(total_loss / total_predict_count)
-            #print("Epoch(%d)   step-time %.2fs  loss %.3f " % (global_step, total_time, total_loss))
-            total_loss, total_predict_count, total_time = 0.0, 0.0, 0.0
+            val_time = time.time()
+            step_loss_val, predict_count_val= eval_model.model.eval_step(eval_sess, valid_data.copy(), no_random=True, id=now_step * hparams.batch_size)
+            total_loss_val += step_loss_val
+            total_predict_count_val += predict_count_val
+            total_time_val += (time.time() - val_time)
+            avg_loss_val = total_loss_val / global_step
+            avg_time_val = total_time_val / global_step
+            ppl = safe_exp(total_loss_val/ total_predict_count_val)
+
+            print("Validation: Epoch(%d) step-time %.2fs  loss %.3f ppl %.2f" % (global_step,avg_time_val, avg_loss_val, ppl))
+            print("\n___________________________________________\n")
+            with open('val_epochs.txt', 'a', encoding='utf-8') as f:
+                f.write("Epoch(%d)   step-time %.2fs  loss %.3f ppl %.2f" % (global_step, avg_time_val, avg_loss_val, ppl)+"\n")
+            with open('val_loss.txt', 'a', encoding='utf-8') as f:
+                f.write( str(avg_loss_val)+"\n")
+            with open('val_ppl.txt', 'a', encoding='utf-8') as f:
+                f.write(str(ppl)+"\n")
+            if global_step==1:
+                ppl_val=ppl
+            if ppl_val < ppl:
+                epoch_count += 1
+                ppl_val = ppl
+                print("Earlystop count:", epoch_count)
+            else:
+                epoch_count = 0
+                ppl_val = ppl
+            if epoch_count>Early_stop:
+                print("Earlystop at epoch(" + str(global_step) + ")")
+                with open('train_epochs.txt', 'a', encoding='utf-8') as f:
+                    f.write("Earlystop at epoch(" + str(global_step), +")" + "\n")
+                with open('val_epochs.txt', 'a', encoding='utf-8') as f:
+                    f.write("Earlystop at epoch(" + str(global_step), +")" + "\n")
+                break
+            total_loss_val, total_predict_count_val, total_time_val = 0.0, 0.0, 0.0
 
 def init_embedding(hparams):
     f = open(hparams.from_vocab, "r", encoding="utf-8")

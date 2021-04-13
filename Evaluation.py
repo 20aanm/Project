@@ -3,26 +3,22 @@
 from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.chrf_score import sentence_chrf
 from nltk.translate import bleu_score
-from tensorflow.python.platform import gfile
 import meteor_score
-import tensorflow.compat.v1 as tf
-
-
-
+import tensorflow as tf
 
 
 def eval_score(file_ref,file_pred, bleu_baseline=False):
   """Read the dataset"""
   print("Reading raw data .. ")
-  print("  data path: %s" % file_ref)
+  print("data path: %s" % file_ref)
   sentence_ref = []
   sentence_pred=[]
   with tf.gfile.GFile(file_ref, mode="r") as ref:
       for line in ref:
           sentence_ref.append(line.lower().rstrip("\n"))
+  print("data path: %s" % file_pred)
   with tf.gfile.GFile(file_pred, mode="r") as pred:
         for line in pred:
-          line.replace("_pad","")
           sentence_pred.append(line.lower().rstrip("\n"))
 
   #print(sentence_ref)  
@@ -36,9 +32,9 @@ def eval_score(file_ref,file_pred, bleu_baseline=False):
       bleu = corpus_bleu(
             references, hypothesis,
             smoothing_function=bleu_score.SmoothingFunction().method1) * 100
-      print("bleu: %.4f" % (bleu*100))
-      print("chrf",chrf(references, hypothesis)*100 )
-      print("meteor",meteor_score.meteor_score(references,str(hypothesis))*100)
+      print("bleu: %.2f" % (bleu*100))
+      print("chrf: %.2f"%(chrf(references, hypothesis)*100))
+      print("meteor: %.2f"%(meteor_score.meteor_score(references,str(hypothesis))*100))
 
 
 def chrf(reference, predict):
@@ -91,4 +87,20 @@ print("\n____________________________________________\n")
 eval_score("results/Reference(LDGCN)480","results/Prediction(LDGCN)480",True)
 
 print("\n____________________________________________\n")
+print("DCGCN: 1000 epochs")
+print("16 gcn hidden layers")
+eval_score("results/Reference(DCGCN)_1000","results/Prediction(DCGCN)_1000",True)
 
+
+print("\n____________________________________________\n")
+print("LDGC: 1000 epochs")
+print("16 gcn hidden layers")
+eval_score("results/Reference(LDGCN)_1000","results/Prediction(LDGCN)_1000",True)
+
+print("\n____________________________________________\n")
+print("GraphTransformer: 1000 epochs")
+eval_score("results/ref_file(GT)_1000","results/predict_file(GT)_1000",True)
+print("\n____________________________________________\n")
+
+
+eval_score("Reference2(DCGCN)","Prediction2(DCGCN)",True)

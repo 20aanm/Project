@@ -112,7 +112,7 @@ class LDGCN():
             c, h = state
             self.enc_char_emb_rnn = tf.reshape(h,[-1, self.max_src_length, self.num_units])
 
-
+        # Extension part
         with tf.variable_scope("convolution-block") as scope:
             enc_char_ids = tf.reshape(self.enc_char_ids, [-1, 20])
             enc_char_lens = tf.reshape(self.enc_char_lens, [-1])

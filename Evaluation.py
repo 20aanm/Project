@@ -83,8 +83,6 @@ eval_score("results/Ref(DCGCN)128","results/Pred(DCGCN)128",True)
 print("\n____________________________________________\n")
 
 
-# 480 hidden layers
-eval_score("results/Reference(LDGCN)480","results/Prediction(LDGCN)480",True)
 
 print("\n____________________________________________\n")
 print("DCGCN: 1000 epochs")
@@ -103,4 +101,16 @@ eval_score("results/ref_file(GT)_1000","results/predict_file(GT)_1000",True)
 print("\n____________________________________________\n")
 
 
-eval_score("Reference2(DCGCN)","Prediction2(DCGCN)",True)
+
+print("\n--------------------256 gcn hidden layers-------------------------\n")
+eval_score("results/Reference2(DCGCN)_256","results/Prediction2(DCGCN)_256",True)
+print("\n____________________________________________\n")
+eval_score("results/Reference2(LDGCN)_256","results/Prediction2(LDGCN)_256",True)
+print("\n____________________________________________\n")
+
+
+print("\n--------------------480 gcn hidden layers-------------------------\n")
+eval_score("results/Reference2(DCGCN)_480","results/Prediction2(DCGCN)_480",True)
+print("\n____________________________________________\n")
+eval_score("results/Reference2(LDGCN)_480","results/Prediction2(LDGCN)_480",True)
+print("\n____________________________________________\n")

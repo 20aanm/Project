@@ -6,7 +6,7 @@
   
   
 # Data
-* Used the same data they have used for the graphtransformer https://github.com/sodawater/GraphTransformer. So they uploaded some example format of the data of amr_15 dataset they have used not the whole data which is used for the experiments.They have used pretrained embeddings from  https://www.kaggle.com/takuok/glove840b300dtxt. The embeddings are extracted from glove840b300d.txt using gensim model due to the limitation on the size of embedding part it can't be uploaded so there is a sample of the embedding uploaded. In additon, the embedding are saved in .npz format so ease up the loading of the model during trials.
+* Used the same data they have used for the graphtransformer https://github.com/sodawater/GraphTransformer. So they uploaded some example format of the data of amr_15 dataset they have used not the whole data which is used for the experiments.They have used pretrained embeddings from  https://www.kaggle.com/takuok/glove840b300dtxt. The embeddings are extracted from glove840b300d.txt using gensim model due to the limitation on the size of embedding part it could not be uploaded so there is a sample of the embedding uploaded. In additon, the embedding are saved in .npz format so ease up the loading of the model during trials.
 # Train GraphTransformer
 ```
  python TrainGT.py --enc_layers=8 --dec_layers=6 --num_heads=2 --num_units=256 --emb_dim=300  --train_dir=save/ --use_copy=1 --batch_size=16 --dropout_rate=0.2 --gpu_device=0 --max_src_len=90 --max_tgt_len=90

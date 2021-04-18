@@ -47,7 +47,7 @@ Zhang, Y., Guo, Z., Teng, Z., Lu, W., Cohen, S. B., Liu, Z., & Bing, L. (2020). 
 
 # Evaluation and Resutls
 * For model evaluation, the resutls of expermiemnts are in the "results" folder.
-* The results folder contains the log file of the expermients alongside with the reference and prediction file for each experiment.
+* The results folder contains the log file of the expermients alongside with the reference and prediction files for each experiment.
 
 ```
 python Evaluation.py

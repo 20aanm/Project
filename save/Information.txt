@@ -1,0 +1,2 @@
+This folder in meant for saving the checkpoints
+ of the training phase to be used for validation and test.

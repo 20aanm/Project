@@ -46,6 +46,7 @@ Zhang, Y., Guo, Z., Teng, Z., Lu, W., Cohen, S. B., Liu, Z., & Bing, L. (2020). 
 
 
 # Evaluation and Resutls
+* The checkpoints of the training epochs are dumped to the "save" folder due to the limitation on the size of the epochs checkpoints. It cannot be uploaded.
 * For model evaluation, the resutls of expermiemnts are in the "results" folder.
 * The results folder contains the log file of the expermients alongside with the reference and prediction files for each experiment.
 

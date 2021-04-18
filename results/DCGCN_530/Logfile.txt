@@ -1,0 +1,3446 @@
+Epoch(1)   step-time 10.96s  loss 3907.642 ppl 5792.94
+loading model.........
+Validation: Epoch(1) step-time 3.17s  loss 3682.688 ppl 12926.90
+
+___________________________________________
+
+Epoch(2)   step-time 2.96s  loss 1983.256 ppl 6228.00
+loading model.........
+Validation: Epoch(2) step-time 1.02s  loss 1837.176 ppl 12652.78
+
+___________________________________________
+
+Epoch(3)   step-time 1.99s  loss 1341.122 ppl 6409.30
+loading model.........
+Validation: Epoch(3) step-time 0.68s  loss 1220.671 ppl 12257.79
+
+___________________________________________
+
+Epoch(4)   step-time 1.47s  loss 996.469 ppl 4650.15
+loading model.........
+Validation: Epoch(4) step-time 0.51s  loss 911.571 ppl 11772.02
+
+___________________________________________
+
+Epoch(5)   step-time 1.19s  loss 750.940 ppl 5605.46
+loading model.........
+Validation: Epoch(5) step-time 0.40s  loss 725.424 ppl 11206.09
+
+___________________________________________
+
+Epoch(6)   step-time 0.99s  loss 664.104 ppl 5076.53
+loading model.........
+Validation: Epoch(6) step-time 0.33s  loss 600.727 ppl 10569.26
+
+___________________________________________
+
+Epoch(7)   step-time 0.83s  loss 516.060 ppl 5437.09
+loading model.........
+Validation: Epoch(7) step-time 0.31s  loss 511.188 ppl 9884.84
+
+___________________________________________
+
+Epoch(8)   step-time 0.73s  loss 507.157 ppl 4856.07
+loading model.........
+Validation: Epoch(8) step-time 0.25s  loss 443.730 ppl 9187.05
+
+___________________________________________
+
+Epoch(9)   step-time 0.64s  loss 417.067 ppl 5481.75
+loading model.........
+Validation: Epoch(9) step-time 0.23s  loss 391.050 ppl 8496.66
+
+___________________________________________
+
+Epoch(10)   step-time 0.59s  loss 393.779 ppl 4761.68
+loading model.........
+Validation: Epoch(10) step-time 0.20s  loss 348.765 ppl 7829.69
+
+___________________________________________
+
+Epoch(11)   step-time 0.53s  loss 352.040 ppl 4786.81
+loading model.........
+Validation: Epoch(11) step-time 0.20s  loss 314.155 ppl 7212.50
+
+___________________________________________
+
+Epoch(12)   step-time 0.55s  loss 305.539 ppl 4319.69
+loading model.........
+Validation: Epoch(12) step-time 0.19s  loss 285.376 ppl 6656.68
+
+___________________________________________
+
+Epoch(13)   step-time 0.51s  loss 299.568 ppl 4750.70
+loading model.........
+Validation: Epoch(13) step-time 0.17s  loss 261.132 ppl 6165.78
+
+___________________________________________
+
+Epoch(14)   step-time 0.47s  loss 292.179 ppl 5023.56
+loading model.........
+Validation: Epoch(14) step-time 0.16s  loss 240.493 ppl 5740.30
+
+___________________________________________
+
+Epoch(15)   step-time 0.44s  loss 248.508 ppl 4966.85
+loading model.........
+Validation: Epoch(15) step-time 0.15s  loss 222.872 ppl 5399.46
+
+___________________________________________
+
+Epoch(16)   step-time 0.40s  loss 233.092 ppl 4987.99
+loading model.........
+Validation: Epoch(16) step-time 0.15s  loss 207.687 ppl 5127.67
+
+___________________________________________
+
+Epoch(17)   step-time 0.38s  loss 233.411 ppl 4557.86
+loading model.........
+Validation: Epoch(17) step-time 0.13s  loss 194.532 ppl 4921.55
+
+___________________________________________
+
+Epoch(18)   step-time 0.37s  loss 204.176 ppl 4406.37
+loading model.........
+Validation: Epoch(18) step-time 0.12s  loss 183.069 ppl 4774.63
+
+___________________________________________
+
+Epoch(19)   step-time 0.34s  loss 178.940 ppl 4709.72
+loading model.........
+Validation: Epoch(19) step-time 0.11s  loss 172.982 ppl 4670.35
+
+___________________________________________
+
+Epoch(20)   step-time 0.31s  loss 184.984 ppl 4571.16
+loading model.........
+Validation: Epoch(20) step-time 0.10s  loss 164.046 ppl 4601.87
+
+___________________________________________
+
+Epoch(21)   step-time 0.29s  loss 196.532 ppl 4549.63
+loading model.........
+Validation: Epoch(21) step-time 0.10s  loss 156.070 ppl 4561.30
+
+___________________________________________
+
+Epoch(22)   step-time 0.27s  loss 164.406 ppl 4498.29
+loading model.........
+Validation: Epoch(22) step-time 0.09s  loss 148.878 ppl 4536.18
+
+___________________________________________
+
+Epoch(23)   step-time 0.25s  loss 159.056 ppl 4855.60
+loading model.........
+Validation: Epoch(23) step-time 0.09s  loss 142.341 ppl 4519.13
+
+___________________________________________
+
+Epoch(24)   step-time 0.25s  loss 160.841 ppl 5116.62
+loading model.........
+Validation: Epoch(24) step-time 0.08s  loss 136.364 ppl 4506.28
+
+___________________________________________
+
+Epoch(25)   step-time 0.23s  loss 148.957 ppl 5022.04
+loading model.........
+Validation: Epoch(25) step-time 0.08s  loss 130.875 ppl 4496.22
+
+___________________________________________
+
+Epoch(26)   step-time 0.23s  loss 142.127 ppl 5085.80
+loading model.........
+Validation: Epoch(26) step-time 0.08s  loss 125.813 ppl 4487.59
+
+___________________________________________
+
+Epoch(27)   step-time 0.21s  loss 145.297 ppl 5055.76
+loading model.........
+Validation: Epoch(27) step-time 0.07s  loss 121.139 ppl 4483.38
+
+___________________________________________
+
+Epoch(28)   step-time 0.20s  loss 139.090 ppl 4665.60
+loading model.........
+Validation: Epoch(28) step-time 0.07s  loss 116.824 ppl 4486.78
+
+___________________________________________
+
+Epoch(29)   step-time 0.20s  loss 137.064 ppl 4794.34
+loading model.........
+Validation: Epoch(29) step-time 0.07s  loss 112.855 ppl 4506.72
+
+___________________________________________
+
+Epoch(30)   step-time 0.19s  loss 131.823 ppl 4848.55
+loading model.........
+Validation: Epoch(30) step-time 0.07s  loss 109.205 ppl 4545.75
+
+___________________________________________
+
+Epoch(31)   step-time 0.19s  loss 122.825 ppl 5004.28
+loading model.........
+Validation: Epoch(31) step-time 0.06s  loss 105.838 ppl 4602.50
+
+___________________________________________
+
+Epoch(32)   step-time 0.18s  loss 118.365 ppl 4278.41
+loading model.........
+Validation: Epoch(32) step-time 0.06s  loss 102.753 ppl 4687.66
+
+___________________________________________
+
+Epoch(33)   step-time 0.18s  loss 116.957 ppl 4653.95
+loading model.........
+Validation: Epoch(33) step-time 0.06s  loss 99.932 ppl 4805.70
+
+___________________________________________
+
+Epoch(34)   step-time 0.17s  loss 120.607 ppl 4617.07
+loading model.........
+Validation: Epoch(34) step-time 0.06s  loss 97.283 ppl 4929.11
+
+___________________________________________
+
+Epoch(35)   step-time 0.17s  loss 107.323 ppl 4379.32
+loading model.........
+Validation: Epoch(35) step-time 0.06s  loss 94.775 ppl 5050.89
+
+___________________________________________
+
+Epoch(36)   step-time 0.16s  loss 109.384 ppl 4199.89
+loading model.........
+Validation: Epoch(36) step-time 0.06s  loss 92.388 ppl 5167.04
+
+___________________________________________
+
+Epoch(37)   step-time 0.16s  loss 99.364 ppl 4682.79
+loading model.........
+Validation: Epoch(37) step-time 0.05s  loss 90.034 ppl 5237.49
+
+___________________________________________
+
+Epoch(38)   step-time 0.15s  loss 99.110 ppl 4233.28
+loading model.........
+Validation: Epoch(38) step-time 0.05s  loss 87.712 ppl 5261.79
+
+___________________________________________
+
+Epoch(39)   step-time 0.15s  loss 98.089 ppl 3945.31
+loading model.........
+Validation: Epoch(39) step-time 0.06s  loss 85.446 ppl 5253.30
+
+___________________________________________
+
+Epoch(40)   step-time 0.15s  loss 89.657 ppl 4188.72
+loading model.........
+Validation: Epoch(40) step-time 0.05s  loss 83.170 ppl 5178.16
+
+___________________________________________
+
+Epoch(41)   step-time 0.14s  loss 85.645 ppl 4029.04
+loading model.........
+Validation: Epoch(41) step-time 0.05s  loss 80.930 ppl 5063.72
+
+___________________________________________
+
+Epoch(42)   step-time 0.14s  loss 91.619 ppl 3996.02
+loading model.........
+Validation: Epoch(42) step-time 0.05s  loss 78.768 ppl 4936.98
+
+___________________________________________
+
+Epoch(43)   step-time 0.14s  loss 87.093 ppl 4432.95
+loading model.........
+Validation: Epoch(43) step-time 0.05s  loss 76.693 ppl 4806.21
+
+___________________________________________
+
+Epoch(44)   step-time 0.14s  loss 86.940 ppl 4563.67
+loading model.........
+Validation: Epoch(44) step-time 0.05s  loss 74.688 ppl 4665.72
+
+___________________________________________
+
+Epoch(45)   step-time 0.13s  loss 85.880 ppl 4293.80
+loading model.........
+Validation: Epoch(45) step-time 0.04s  loss 72.794 ppl 4541.16
+
+___________________________________________
+
+Epoch(46)   step-time 0.13s  loss 82.323 ppl 4041.89
+loading model.........
+Validation: Epoch(46) step-time 0.04s  loss 71.020 ppl 4439.47
+
+___________________________________________
+
+Epoch(47)   step-time 0.13s  loss 82.019 ppl 4056.11
+loading model.........
+Validation: Epoch(47) step-time 0.04s  loss 69.349 ppl 4354.28
+
+___________________________________________
+
+Epoch(48)   step-time 0.13s  loss 78.957 ppl 4069.28
+loading model.........
+Validation: Epoch(48) step-time 0.04s  loss 67.777 ppl 4286.58
+
+___________________________________________
+
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF80B063B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FF893A2B443  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FF894D27034  Unknown               Unknown  Unknown
+ntdll.dll          00007FF896082651  Unknown               Unknown  Unknown
+Epoch(49)   step-time 0.13s  loss 74.282 ppl 4142.65
+
+(asd) C:\Users\Ahmed Harby\Documents\GitHub\GraphTransformer>
+
+(asd) C:\Users\Ahmed Harby\Documents\GitHub\GraphTransformer>python Train(DCGCN).py --enc_layers=8 --dec_layers=6 --gcn_num_layers=4 --gcn_dropout=0.5 --gcn_num_hidden=16 --num_heads=2 --num_units=256 --emb_dim=300  --train_dir=save/ --use_copy=1 --batch_size=16 --dropout_rate=0.2 --gpu_device=0 --max_src_len=90 --max_tgt_len=90
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:493: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:494: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:495: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:496: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:497: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+C:\Users\Ahmed Harby\anaconda3\envs\asd\lib\site-packages\tensorflow\python\framework\dtypes.py:502: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+None
+Namespace(batch_size=16, data_dir='data/', dec_layers=6, dropout_rate=0.2, edge_vocab_size=150, emb_dim=300, enc_layers=8, epoch_num=100, from_vocab='data/vocab_15000', from_vocab_size=15000, gcn_dropout=0.5, gcn_encoding=True, gcn_num_hidden=16, gcn_num_layers=4, gpu_device='0', input_keep_prob=1.0, label_vocab='data/evocab', lambda1=0.5, lambda2=0.5, learning_rate=0.0001, learning_rate_decay_factor=0.5, max_gradient_norm=3.0, max_src_len=90, max_tgt_len=90, max_train_data_size=0, model_dir='model/', num_heads=2, num_units=256, out_dir='output/', output_dir='model/graph/', output_keep_prob=0.9, test_data='test', to_vocab='data/vocab_15000', to_vocab_size=15000, train_data='training', train_dir='save/', use_charlstm=False, use_copy=1, use_depth=False, valid_data='dev')
+[('EOS_ID', 2), ('GO_ID', 1), ('PAD_ID', 0), ('batch_size', 16), ('clip_value', 3.0), ('data_dir', 'data/'), ('dec_layers', 6), ('decay_factor', 0.5), ('dropout_rate', 0.2), ('edge_vocab_size', 150), ('emb_dim', 300), ('enc_layers', 8), ('epoch_num', 100), ('epoch_step', 0), ('from_vocab', 'data/vocab_15000'), ('from_vocab_size', 15000), ('gcn_dropout', 0.5), ('gcn_encoding', True), ('gcn_num_hidden', 16), ('gcn_num_layers', 4), ('init_weight', 0.1), ('input_keep_prob', 1.0), ('label_vocab', 'data/evocab'), ('lambda1', 0.5), ('lambda2', 0.5), ('learning_rate', 0.0001), ('max_seq_length', 100), ('max_src_len', 90), ('max_tgt_len', 90), ('max_train_data_size', 0), ('num_heads', 2), ('num_units', 256), ('output_dir', 'model/graph/'), ('output_keep_prob', 0.9), ('share_vocab', False), ('test_data', 'test'), ('to_vocab', 'data/vocab_15000'), ('to_vocab_size', 15000), ('train_data', 'training'), ('train_dir', 'save/'), ('use_charlstm', False), ('use_copy', 1), ('use_depth', False), ('valid_data', 'dev')]
+ init embedding finished
+4813
+(15000, 300)
+dataset length: 10
+dataset length: 10
+Number of trainable parameters: 26487066
+Epoch(1)   step-time 9.20s  loss 3648.740 ppl 4479.36
+loading model.........
+Validation: Epoch(1) step-time 3.22s  loss 3310.894 ppl 4970.60
+4970.599523465664
+
+___________________________________________
+
+Epoch(2)   step-time 2.91s  loss 1910.568 ppl 4965.77
+loading model.........
+Validation: Epoch(2) step-time 1.01s  loss 1654.613 ppl 4949.32
+
+___________________________________________
+
+Epoch(3)   step-time 1.97s  loss 1286.894 ppl 4496.58
+loading model.........
+Validation: Epoch(3) step-time 0.67s  loss 1102.295 ppl 4919.65
+
+___________________________________________
+
+Epoch(4)   step-time 1.46s  loss 970.968 ppl 4908.04
+loading model.........
+Validation: Epoch(4) step-time 0.50s  loss 825.984 ppl 4882.47
+
+___________________________________________
+
+Epoch(5)   step-time 1.19s  loss 790.325 ppl 4324.64
+loading model.........
+Validation: Epoch(5) step-time 0.40s  loss 660.112 ppl 4840.27
+
+___________________________________________
+
+Epoch(6)   step-time 0.96s  loss 688.184 ppl 4895.65
+loading model.........
+Validation: Epoch(6) step-time 0.33s  loss 549.510 ppl 4796.96
+
+___________________________________________
+
+Epoch(7)   step-time 0.85s  loss 548.830 ppl 4644.96
+loading model.........
+Validation: Epoch(7) step-time 0.29s  loss 470.523 ppl 4755.21
+
+___________________________________________
+
+Epoch(8)   step-time 0.72s  loss 453.249 ppl 4505.12
+loading model.........
+Validation: Epoch(8) step-time 0.25s  loss 411.359 ppl 4721.24
+
+___________________________________________
+
+Epoch(9)   step-time 0.65s  loss 455.956 ppl 4565.58
+loading model.........
+Validation: Epoch(9) step-time 0.23s  loss 365.432 ppl 4697.24
+
+___________________________________________
+
+Epoch(10)   step-time 0.63s  loss 374.390 ppl 4592.67
+loading model.........
+Validation: Epoch(10) step-time 0.21s  loss 328.806 ppl 4687.17
+
+___________________________________________
+
+Epoch(11)   step-time 0.57s  loss 346.449 ppl 4674.96
+loading model.........
+Validation: Epoch(11) step-time 0.18s  loss 298.957 ppl 4692.86
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(12)   step-time 0.51s  loss 313.093 ppl 4149.01
+loading model.........
+Validation: Epoch(12) step-time 0.17s  loss 274.210 ppl 4716.96
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(13)   step-time 0.46s  loss 285.260 ppl 4008.44
+loading model.........
+Validation: Epoch(13) step-time 0.15s  loss 253.349 ppl 4753.73
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(14)   step-time 0.42s  loss 262.087 ppl 4346.86
+loading model.........
+Validation: Epoch(14) step-time 0.14s  loss 235.464 ppl 4790.07
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(15)   step-time 0.39s  loss 250.126 ppl 4177.81
+loading model.........
+Validation: Epoch(15) step-time 0.13s  loss 219.998 ppl 4832.87
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(16)   step-time 0.36s  loss 250.988 ppl 4612.65
+loading model.........
+Validation: Epoch(16) step-time 0.12s  loss 206.442 ppl 4871.69
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(17)   step-time 0.35s  loss 203.118 ppl 4363.67
+loading model.........
+Validation: Epoch(17) step-time 0.12s  loss 194.415 ppl 4896.63
+Earlystop count: 7
+
+___________________________________________
+
+Epoch(18)   step-time 0.32s  loss 204.192 ppl 4409.15
+loading model.........
+Validation: Epoch(18) step-time 0.11s  loss 183.623 ppl 4898.52
+Earlystop count: 8
+
+___________________________________________
+
+Epoch(19)   step-time 0.30s  loss 207.619 ppl 4416.47
+loading model.........
+Validation: Epoch(19) step-time 0.11s  loss 173.891 ppl 4882.48
+
+___________________________________________
+
+Epoch(20)   step-time 0.29s  loss 181.447 ppl 4625.65
+loading model.........
+Validation: Epoch(20) step-time 0.10s  loss 165.041 ppl 4843.65
+
+___________________________________________
+
+Epoch(21)   step-time 0.27s  loss 188.951 ppl 4557.62
+loading model.........
+Validation: Epoch(21) step-time 0.10s  loss 156.959 ppl 4785.72
+
+___________________________________________
+
+Epoch(22)   step-time 0.27s  loss 166.610 ppl 4392.71
+loading model.........
+Validation: Epoch(22) step-time 0.09s  loss 149.595 ppl 4723.85
+
+___________________________________________
+
+Epoch(23)   step-time 0.25s  loss 169.656 ppl 4572.52
+loading model.........
+Validation: Epoch(23) step-time 0.09s  loss 142.871 ppl 4662.87
+
+___________________________________________
+
+Epoch(24)   step-time 0.25s  loss 140.638 ppl 4250.33
+loading model.........
+Validation: Epoch(24) step-time 0.08s  loss 136.736 ppl 4610.71
+
+___________________________________________
+
+Epoch(25)   step-time 0.23s  loss 149.196 ppl 4052.73
+loading model.........
+Validation: Epoch(25) step-time 0.08s  loss 131.123 ppl 4568.55
+
+___________________________________________
+
+Epoch(26)   step-time 0.23s  loss 137.571 ppl 4019.73
+loading model.........
+Validation: Epoch(26) step-time 0.08s  loss 125.978 ppl 4537.56
+
+___________________________________________
+
+Epoch(27)   step-time 0.21s  loss 133.863 ppl 4470.92
+loading model.........
+Validation: Epoch(27) step-time 0.08s  loss 121.229 ppl 4511.24
+
+___________________________________________
+
+Epoch(28)   step-time 0.21s  loss 131.634 ppl 4344.77
+loading model.........
+Validation: Epoch(28) step-time 0.07s  loss 116.827 ppl 4487.75
+
+___________________________________________
+
+Epoch(29)   step-time 0.20s  loss 129.276 ppl 4075.06
+loading model.........
+Validation: Epoch(29) step-time 0.07s  loss 112.731 ppl 4465.48
+
+___________________________________________
+
+Epoch(30)   step-time 0.20s  loss 125.378 ppl 3963.54
+loading model.........
+Validation: Epoch(30) step-time 0.07s  loss 108.917 ppl 4446.04
+
+___________________________________________
+
+Epoch(31)   step-time 0.21s  loss 121.361 ppl 4274.62
+loading model.........
+Validation: Epoch(31) step-time 0.08s  loss 105.345 ppl 4425.50
+
+___________________________________________
+
+Epoch(32)   step-time 0.21s  loss 118.164 ppl 3992.56
+loading model.........
+Validation: Epoch(32) step-time 0.06s  loss 101.994 ppl 4403.76
+
+___________________________________________
+
+Epoch(33)   step-time 0.19s  loss 111.981 ppl 4440.86
+loading model.........
+Validation: Epoch(33) step-time 0.07s  loss 98.847 ppl 4383.11
+
+___________________________________________
+
+Epoch(34)   step-time 0.19s  loss 111.445 ppl 4137.03
+loading model.........
+Validation: Epoch(34) step-time 0.06s  loss 95.888 ppl 4363.01
+
+___________________________________________
+
+Epoch(35)   step-time 0.18s  loss 105.170 ppl 4060.75
+loading model.........
+Validation: Epoch(35) step-time 0.06s  loss 93.098 ppl 4343.59
+
+___________________________________________
+
+Epoch(36)   step-time 0.17s  loss 99.708 ppl 4220.35
+loading model.........
+Validation: Epoch(36) step-time 0.06s  loss 90.470 ppl 4326.78
+
+___________________________________________
+
+Epoch(37)   step-time 0.16s  loss 95.046 ppl 3773.92
+loading model.........
+Validation: Epoch(37) step-time 0.05s  loss 88.000 ppl 4316.54
+
+___________________________________________
+
+Epoch(38)   step-time 0.15s  loss 93.667 ppl 4252.47
+loading model.........
+Validation: Epoch(38) step-time 0.06s  loss 85.680 ppl 4314.61
+
+___________________________________________
+
+Epoch(39)   step-time 0.16s  loss 94.666 ppl 4010.11
+loading model.........
+Validation: Epoch(39) step-time 0.05s  loss 83.501 ppl 4322.53
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(40)   step-time 0.15s  loss 94.215 ppl 4027.32
+loading model.........
+Validation: Epoch(40) step-time 0.05s  loss 81.409 ppl 4320.56
+
+___________________________________________
+
+Epoch(41)   step-time 0.14s  loss 91.688 ppl 4168.40
+loading model.........
+Validation: Epoch(41) step-time 0.05s  loss 79.405 ppl 4312.09
+
+___________________________________________
+
+Epoch(42)   step-time 0.14s  loss 92.474 ppl 4396.34
+loading model.........
+Validation: Epoch(42) step-time 0.05s  loss 77.493 ppl 4302.02
+
+___________________________________________
+
+Epoch(43)   step-time 0.14s  loss 81.647 ppl 4023.04
+loading model.........
+Validation: Epoch(43) step-time 0.05s  loss 75.650 ppl 4282.69
+
+___________________________________________
+
+Epoch(44)   step-time 0.13s  loss 87.528 ppl 3748.46
+loading model.........
+Validation: Epoch(44) step-time 0.06s  loss 73.879 ppl 4257.68
+
+___________________________________________
+
+Epoch(45)   step-time 0.13s  loss 89.011 ppl 3995.56
+loading model.........
+Validation: Epoch(45) step-time 0.04s  loss 72.178 ppl 4228.51
+
+___________________________________________
+
+Epoch(46)   step-time 0.13s  loss 73.523 ppl 3747.71
+loading model.........
+Validation: Epoch(46) step-time 0.05s  loss 70.554 ppl 4201.25
+
+___________________________________________
+
+Epoch(47)   step-time 0.13s  loss 75.955 ppl 3665.32
+loading model.........
+Validation: Epoch(47) step-time 0.04s  loss 68.997 ppl 4173.00
+
+___________________________________________
+
+Epoch(48)   step-time 0.12s  loss 81.848 ppl 3647.72
+loading model.........
+Validation: Epoch(48) step-time 0.04s  loss 67.476 ppl 4130.28
+
+___________________________________________
+
+Epoch(49)   step-time 0.13s  loss 81.568 ppl 3924.66
+loading model.........
+Validation: Epoch(49) step-time 0.04s  loss 66.010 ppl 4084.42
+
+___________________________________________
+
+Epoch(50)   step-time 0.12s  loss 72.094 ppl 3751.39
+loading model.........
+Validation: Epoch(50) step-time 0.04s  loss 64.608 ppl 4041.40
+
+___________________________________________
+
+Epoch(51)   step-time 0.12s  loss 74.215 ppl 3613.93
+loading model.........
+Validation: Epoch(51) step-time 0.04s  loss 63.266 ppl 4001.75
+
+___________________________________________
+
+Epoch(52)   step-time 0.11s  loss 76.128 ppl 3688.39
+loading model.........
+Validation: Epoch(52) step-time 0.04s  loss 61.991 ppl 3970.86
+
+___________________________________________
+
+Epoch(53)   step-time 0.12s  loss 75.461 ppl 3945.94
+loading model.........
+Validation: Epoch(53) step-time 0.04s  loss 60.779 ppl 3948.10
+
+___________________________________________
+
+Epoch(54)   step-time 0.11s  loss 70.774 ppl 3710.42
+loading model.........
+Validation: Epoch(54) step-time 0.04s  loss 59.619 ppl 3929.34
+
+___________________________________________
+
+Epoch(55)   step-time 0.11s  loss 70.185 ppl 3958.54
+loading model.........
+Validation: Epoch(55) step-time 0.04s  loss 58.502 ppl 3910.93
+
+___________________________________________
+
+Epoch(56)   step-time 0.10s  loss 67.575 ppl 3806.22
+loading model.........
+Validation: Epoch(56) step-time 0.04s  loss 57.429 ppl 3894.96
+
+___________________________________________
+
+Epoch(57)   step-time 0.11s  loss 63.055 ppl 3661.89
+loading model.........
+Validation: Epoch(57) step-time 0.04s  loss 56.398 ppl 3881.30
+
+___________________________________________
+
+Epoch(58)   step-time 0.10s  loss 65.086 ppl 3536.92
+loading model.........
+Validation: Epoch(58) step-time 0.04s  loss 55.411 ppl 3873.05
+
+___________________________________________
+
+Epoch(59)   step-time 0.10s  loss 65.062 ppl 3713.99
+loading model.........
+Validation: Epoch(59) step-time 0.03s  loss 54.457 ppl 3864.29
+
+___________________________________________
+
+Epoch(60)   step-time 0.10s  loss 61.039 ppl 3683.14
+loading model.........
+Validation: Epoch(60) step-time 0.03s  loss 53.513 ppl 3842.58
+
+___________________________________________
+
+Epoch(61)   step-time 0.10s  loss 59.486 ppl 4037.92
+loading model.........
+Validation: Epoch(61) step-time 0.03s  loss 52.583 ppl 3811.03
+
+___________________________________________
+
+Epoch(62)   step-time 0.09s  loss 59.585 ppl 4106.95
+loading model.........
+Validation: Epoch(62) step-time 0.03s  loss 51.689 ppl 3783.08
+
+___________________________________________
+
+Epoch(63)   step-time 0.09s  loss 62.066 ppl 3509.36
+loading model.........
+Validation: Epoch(63) step-time 0.03s  loss 50.812 ppl 3749.00
+
+___________________________________________
+
+Epoch(64)   step-time 0.09s  loss 58.060 ppl 3585.33
+loading model.........
+Validation: Epoch(64) step-time 0.03s  loss 49.973 ppl 3720.99
+
+___________________________________________
+
+Epoch(65)   step-time 0.09s  loss 56.961 ppl 3609.47
+loading model.........
+Validation: Epoch(65) step-time 0.03s  loss 49.171 ppl 3700.76
+
+___________________________________________
+
+Epoch(66)   step-time 0.09s  loss 52.581 ppl 3656.16
+loading model.........
+Validation: Epoch(66) step-time 0.03s  loss 48.397 ppl 3682.70
+
+___________________________________________
+
+Epoch(67)   step-time 0.09s  loss 52.788 ppl 3733.46
+loading model.........
+Validation: Epoch(67) step-time 0.03s  loss 47.650 ppl 3666.70
+
+___________________________________________
+
+Epoch(68)   step-time 0.09s  loss 52.023 ppl 3278.29
+loading model.........
+Validation: Epoch(68) step-time 0.03s  loss 46.918 ppl 3646.57
+
+___________________________________________
+
+Epoch(69)   step-time 0.09s  loss 56.579 ppl 3464.20
+loading model.........
+Validation: Epoch(69) step-time 0.03s  loss 46.209 ppl 3627.79
+
+___________________________________________
+
+Epoch(70)   step-time 0.08s  loss 54.699 ppl 3392.87
+loading model.........
+Validation: Epoch(70) step-time 0.03s  loss 45.527 ppl 3613.63
+
+___________________________________________
+
+Epoch(71)   step-time 0.08s  loss 51.799 ppl 3356.56
+loading model.........
+Validation: Epoch(71) step-time 0.03s  loss 44.873 ppl 3605.35
+
+___________________________________________
+
+Epoch(72)   step-time 0.08s  loss 52.499 ppl 3275.16
+loading model.........
+Validation: Epoch(72) step-time 0.03s  loss 44.248 ppl 3604.26
+
+___________________________________________
+
+Epoch(73)   step-time 0.08s  loss 52.436 ppl 3326.71
+loading model.........
+Validation: Epoch(73) step-time 0.03s  loss 43.640 ppl 3602.95
+
+___________________________________________
+
+Epoch(74)   step-time 0.08s  loss 52.339 ppl 3476.80
+loading model.........
+Validation: Epoch(74) step-time 0.03s  loss 43.034 ppl 3592.07
+
+___________________________________________
+
+Epoch(75)   step-time 0.08s  loss 49.637 ppl 3329.39
+loading model.........
+Validation: Epoch(75) step-time 0.03s  loss 42.426 ppl 3568.11
+
+___________________________________________
+
+Epoch(76)   step-time 0.08s  loss 50.393 ppl 3229.08
+loading model.........
+Validation: Epoch(76) step-time 0.03s  loss 41.827 ppl 3540.05
+
+___________________________________________
+
+Epoch(77)   step-time 0.08s  loss 45.161 ppl 3313.99
+loading model.........
+Validation: Epoch(77) step-time 0.03s  loss 41.250 ppl 3516.02
+
+___________________________________________
+
+Epoch(78)   step-time 0.07s  loss 45.401 ppl 3016.97
+loading model.........
+Validation: Epoch(78) step-time 0.03s  loss 40.691 ppl 3494.93
+
+___________________________________________
+
+Epoch(79)   step-time 0.08s  loss 44.571 ppl 3216.37
+loading model.........
+Validation: Epoch(79) step-time 0.03s  loss 40.152 ppl 3478.38
+
+___________________________________________
+
+Epoch(80)   step-time 0.07s  loss 47.351 ppl 3391.39
+loading model.........
+Validation: Epoch(80) step-time 0.03s  loss 39.633 ppl 3465.65
+
+___________________________________________
+
+Epoch(81)   step-time 0.07s  loss 46.000 ppl 3181.02
+loading model.........
+Validation: Epoch(81) step-time 0.03s  loss 39.129 ppl 3455.34
+
+___________________________________________
+
+Epoch(82)   step-time 0.07s  loss 42.518 ppl 3384.80
+loading model.........
+Validation: Epoch(82) step-time 0.02s  loss 38.630 ppl 3439.79
+
+___________________________________________
+
+Epoch(83)   step-time 0.07s  loss 44.772 ppl 3340.09
+loading model.........
+Validation: Epoch(83) step-time 0.02s  loss 38.150 ppl 3428.72
+
+___________________________________________
+
+Epoch(84)   step-time 0.07s  loss 43.819 ppl 3260.83
+loading model.........
+Validation: Epoch(84) step-time 0.02s  loss 37.683 ppl 3419.43
+
+___________________________________________
+
+Epoch(85)   step-time 0.07s  loss 40.669 ppl 3158.87
+loading model.........
+Validation: Epoch(85) step-time 0.02s  loss 37.226 ppl 3409.06
+
+___________________________________________
+
+Epoch(86)   step-time 0.07s  loss 42.935 ppl 2957.75
+loading model.........
+Validation: Epoch(86) step-time 0.02s  loss 36.781 ppl 3400.07
+
+___________________________________________
+
+Epoch(87)   step-time 0.07s  loss 41.683 ppl 3336.72
+loading model.........
+Validation: Epoch(87) step-time 0.02s  loss 36.347 ppl 3391.48
+
+___________________________________________
+
+Epoch(88)   step-time 0.07s  loss 37.562 ppl 3050.21
+loading model.........
+Validation: Epoch(88) step-time 0.02s  loss 35.923 ppl 3383.22
+
+___________________________________________
+
+Epoch(89)   step-time 0.07s  loss 42.427 ppl 3031.77
+loading model.........
+Validation: Epoch(89) step-time 0.02s  loss 35.512 ppl 3377.70
+
+___________________________________________
+
+Epoch(90)   step-time 0.06s  loss 39.484 ppl 2991.30
+loading model.........
+Validation: Epoch(90) step-time 0.02s  loss 35.108 ppl 3370.31
+
+___________________________________________
+
+Epoch(91)   step-time 0.06s  loss 42.231 ppl 2901.69
+loading model.........
+Validation: Epoch(91) step-time 0.02s  loss 34.715 ppl 3364.15
+
+___________________________________________
+
+Epoch(92)   step-time 0.06s  loss 40.351 ppl 3087.76
+loading model.........
+Validation: Epoch(92) step-time 0.02s  loss 34.320 ppl 3350.15
+
+___________________________________________
+
+Epoch(93)   step-time 0.06s  loss 39.168 ppl 2946.09
+loading model.........
+Validation: Epoch(93) step-time 0.02s  loss 33.931 ppl 3334.11
+
+___________________________________________
+
+Epoch(94)   step-time 0.06s  loss 38.873 ppl 2968.51
+loading model.........
+Validation: Epoch(94) step-time 0.02s  loss 33.547 ppl 3315.66
+
+___________________________________________
+
+Epoch(95)   step-time 0.06s  loss 38.860 ppl 3004.97
+loading model.........
+Validation: Epoch(95) step-time 0.02s  loss 33.171 ppl 3297.56
+
+___________________________________________
+
+Epoch(96)   step-time 0.06s  loss 33.980 ppl 2909.42
+loading model.........
+Validation: Epoch(96) step-time 0.02s  loss 32.805 ppl 3280.60
+
+___________________________________________
+
+Epoch(97)   step-time 0.06s  loss 39.681 ppl 2987.38
+loading model.........
+Validation: Epoch(97) step-time 0.02s  loss 32.454 ppl 3270.34
+
+___________________________________________
+
+Epoch(98)   step-time 0.06s  loss 36.686 ppl 3002.30
+loading model.........
+Validation: Epoch(98) step-time 0.02s  loss 32.113 ppl 3261.83
+
+___________________________________________
+
+Epoch(99)   step-time 0.06s  loss 38.113 ppl 2864.86
+loading model.........
+Validation: Epoch(99) step-time 0.02s  loss 31.776 ppl 3251.36
+
+___________________________________________
+
+Epoch(100)   step-time 0.06s  loss 35.621 ppl 2789.05
+loading model.........
+Validation: Epoch(100) step-time 0.02s  loss 31.446 ppl 3241.41
+
+___________________________________________
+
+Epoch(101)   step-time 0.06s  loss 36.809 ppl 2966.36
+loading model.........
+Validation: Epoch(101) step-time 0.02s  loss 31.127 ppl 3235.06
+
+___________________________________________
+
+Epoch(102)   step-time 0.06s  loss 33.961 ppl 2980.78
+loading model.........
+Validation: Epoch(102) step-time 0.02s  loss 30.818 ppl 3231.45
+
+___________________________________________
+
+Epoch(103)   step-time 0.06s  loss 35.304 ppl 2532.09
+loading model.........
+Validation: Epoch(103) step-time 0.02s  loss 30.518 ppl 3231.07
+
+___________________________________________
+
+Epoch(104)   step-time 0.06s  loss 35.274 ppl 2857.35
+loading model.........
+Validation: Epoch(104) step-time 0.02s  loss 30.210 ppl 3218.85
+
+___________________________________________
+
+Epoch(105)   step-time 0.06s  loss 33.758 ppl 2729.93
+loading model.........
+Validation: Epoch(105) step-time 0.02s  loss 29.907 ppl 3205.36
+
+___________________________________________
+
+Epoch(106)   step-time 0.06s  loss 32.376 ppl 2767.92
+loading model.........
+Validation: Epoch(106) step-time 0.02s  loss 29.606 ppl 3188.89
+
+___________________________________________
+
+Epoch(107)   step-time 0.05s  loss 34.907 ppl 2599.84
+loading model.........
+Validation: Epoch(107) step-time 0.02s  loss 29.315 ppl 3176.83
+
+___________________________________________
+
+Epoch(108)   step-time 0.05s  loss 34.010 ppl 2936.51
+loading model.........
+Validation: Epoch(108) step-time 0.02s  loss 29.028 ppl 3162.72
+
+___________________________________________
+
+Epoch(109)   step-time 0.05s  loss 33.511 ppl 2623.27
+loading model.........
+Validation: Epoch(109) step-time 0.02s  loss 28.748 ppl 3150.58
+
+___________________________________________
+
+Epoch(110)   step-time 0.05s  loss 29.736 ppl 2550.76
+loading model.........
+Validation: Epoch(110) step-time 0.02s  loss 28.473 ppl 3138.88
+
+___________________________________________
+
+Epoch(111)   step-time 0.05s  loss 30.674 ppl 2697.04
+loading model.........
+Validation: Epoch(111) step-time 0.02s  loss 28.205 ppl 3128.61
+
+___________________________________________
+
+Epoch(112)   step-time 0.05s  loss 29.740 ppl 2678.56
+loading model.........
+Validation: Epoch(112) step-time 0.02s  loss 27.943 ppl 3119.06
+
+___________________________________________
+
+Epoch(113)   step-time 0.05s  loss 29.802 ppl 2711.14
+loading model.........
+Validation: Epoch(113) step-time 0.02s  loss 27.685 ppl 3109.43
+
+___________________________________________
+
+Epoch(114)   step-time 0.05s  loss 29.020 ppl 2842.67
+loading model.........
+Validation: Epoch(114) step-time 0.02s  loss 27.431 ppl 3099.34
+
+___________________________________________
+
+Epoch(115)   step-time 0.05s  loss 29.989 ppl 2580.73
+loading model.........
+Validation: Epoch(115) step-time 0.02s  loss 27.182 ppl 3089.22
+
+___________________________________________
+
+Epoch(116)   step-time 0.05s  loss 28.953 ppl 2605.82
+loading model.........
+Validation: Epoch(116) step-time 0.02s  loss 26.938 ppl 3080.31
+
+___________________________________________
+
+Epoch(117)   step-time 0.05s  loss 33.601 ppl 2558.19
+loading model.........
+Validation: Epoch(117) step-time 0.02s  loss 26.704 ppl 3076.90
+
+___________________________________________
+
+Epoch(118)   step-time 0.05s  loss 28.216 ppl 2620.26
+loading model.........
+Validation: Epoch(118) step-time 0.02s  loss 26.472 ppl 3072.40
+
+___________________________________________
+
+Epoch(119)   step-time 0.05s  loss 31.067 ppl 2696.22
+loading model.........
+Validation: Epoch(119) step-time 0.02s  loss 26.229 ppl 3052.55
+
+___________________________________________
+
+Epoch(120)   step-time 0.05s  loss 29.346 ppl 2547.79
+loading model.........
+Validation: Epoch(120) step-time 0.02s  loss 25.992 ppl 3035.47
+
+___________________________________________
+
+Epoch(121)   step-time 0.05s  loss 28.073 ppl 2462.07
+loading model.........
+Validation: Epoch(121) step-time 0.02s  loss 25.763 ppl 3021.95
+
+___________________________________________
+
+Epoch(122)   step-time 0.05s  loss 29.602 ppl 2524.76
+loading model.........
+Validation: Epoch(122) step-time 0.02s  loss 25.540 ppl 3011.29
+
+___________________________________________
+
+Epoch(123)   step-time 0.05s  loss 30.540 ppl 2546.13
+loading model.........
+Validation: Epoch(123) step-time 0.02s  loss 25.323 ppl 3002.40
+
+___________________________________________
+
+Epoch(124)   step-time 0.05s  loss 27.179 ppl 2488.58
+loading model.........
+Validation: Epoch(124) step-time 0.02s  loss 25.109 ppl 2992.77
+
+___________________________________________
+
+Epoch(125)   step-time 0.05s  loss 30.441 ppl 2395.77
+loading model.........
+Validation: Epoch(125) step-time 0.02s  loss 24.895 ppl 2980.36
+
+___________________________________________
+
+Epoch(126)   step-time 0.05s  loss 28.266 ppl 2642.61
+loading model.........
+Validation: Epoch(126) step-time 0.02s  loss 24.682 ppl 2965.21
+
+___________________________________________
+
+Epoch(127)   step-time 0.05s  loss 25.864 ppl 2686.53
+loading model.........
+Validation: Epoch(127) step-time 0.02s  loss 24.474 ppl 2952.12
+
+___________________________________________
+
+Epoch(128)   step-time 0.05s  loss 28.069 ppl 2344.62
+loading model.........
+Validation: Epoch(128) step-time 0.02s  loss 24.271 ppl 2940.92
+
+___________________________________________
+
+Epoch(129)   step-time 0.05s  loss 28.080 ppl 2298.21
+loading model.........
+Validation: Epoch(129) step-time 0.02s  loss 24.074 ppl 2932.31
+
+___________________________________________
+
+Epoch(130)   step-time 0.05s  loss 25.343 ppl 2412.73
+loading model.........
+Validation: Epoch(130) step-time 0.02s  loss 23.882 ppl 2925.67
+
+___________________________________________
+
+Epoch(131)   step-time 0.04s  loss 27.267 ppl 2168.02
+loading model.........
+Validation: Epoch(131) step-time 0.02s  loss 23.692 ppl 2917.28
+
+___________________________________________
+
+Epoch(132)   step-time 0.05s  loss 25.893 ppl 2203.70
+loading model.........
+Validation: Epoch(132) step-time 0.02s  loss 23.499 ppl 2904.35
+
+___________________________________________
+
+Epoch(133)   step-time 0.04s  loss 25.457 ppl 2488.43
+loading model.........
+Validation: Epoch(133) step-time 0.02s  loss 23.305 ppl 2887.58
+
+___________________________________________
+
+Epoch(134)   step-time 0.04s  loss 25.269 ppl 2277.20
+loading model.........
+Validation: Epoch(134) step-time 0.02s  loss 23.115 ppl 2871.29
+
+___________________________________________
+
+Epoch(135)   step-time 0.04s  loss 27.384 ppl 2108.75
+loading model.........
+Validation: Epoch(135) step-time 0.01s  loss 22.931 ppl 2859.01
+
+___________________________________________
+
+Epoch(136)   step-time 0.05s  loss 23.711 ppl 2369.59
+loading model.........
+Validation: Epoch(136) step-time 0.02s  loss 22.752 ppl 2848.43
+
+___________________________________________
+
+Epoch(137)   step-time 0.04s  loss 26.820 ppl 2288.09
+loading model.........
+Validation: Epoch(137) step-time 0.01s  loss 22.576 ppl 2837.85
+
+___________________________________________
+
+Epoch(138)   step-time 0.04s  loss 25.353 ppl 2222.89
+loading model.........
+Validation: Epoch(138) step-time 0.01s  loss 22.402 ppl 2828.10
+
+___________________________________________
+
+Epoch(139)   step-time 0.04s  loss 23.301 ppl 2405.64
+loading model.........
+Validation: Epoch(139) step-time 0.01s  loss 22.232 ppl 2819.04
+
+___________________________________________
+
+Epoch(140)   step-time 0.04s  loss 24.060 ppl 2225.85
+loading model.........
+Validation: Epoch(140) step-time 0.01s  loss 22.065 ppl 2810.13
+
+___________________________________________
+
+Epoch(141)   step-time 0.04s  loss 24.273 ppl 2150.94
+loading model.........
+Validation: Epoch(141) step-time 0.01s  loss 21.901 ppl 2803.15
+
+___________________________________________
+
+Epoch(142)   step-time 0.04s  loss 23.557 ppl 2265.23
+loading model.........
+Validation: Epoch(142) step-time 0.01s  loss 21.740 ppl 2796.46
+
+___________________________________________
+
+Epoch(143)   step-time 0.04s  loss 23.056 ppl 2256.23
+loading model.........
+Validation: Epoch(143) step-time 0.01s  loss 21.583 ppl 2790.51
+
+___________________________________________
+
+Epoch(144)   step-time 0.04s  loss 22.851 ppl 2262.61
+loading model.........
+Validation: Epoch(144) step-time 0.01s  loss 21.424 ppl 2781.88
+
+___________________________________________
+
+Epoch(145)   step-time 0.04s  loss 25.875 ppl 2115.38
+loading model.........
+Validation: Epoch(145) step-time 0.01s  loss 21.266 ppl 2770.84
+
+___________________________________________
+
+Epoch(146)   step-time 0.04s  loss 23.958 ppl 2181.03
+loading model.........
+Validation: Epoch(146) step-time 0.01s  loss 21.110 ppl 2759.98
+
+___________________________________________
+
+Epoch(147)   step-time 0.04s  loss 23.105 ppl 2099.67
+loading model.........
+Validation: Epoch(147) step-time 0.01s  loss 20.957 ppl 2750.13
+
+___________________________________________
+
+Epoch(148)   step-time 0.04s  loss 24.248 ppl 2247.92
+loading model.........
+Validation: Epoch(148) step-time 0.01s  loss 20.806 ppl 2740.19
+
+___________________________________________
+
+Epoch(149)   step-time 0.04s  loss 21.891 ppl 2114.83
+loading model.........
+Validation: Epoch(149) step-time 0.01s  loss 20.658 ppl 2731.71
+
+___________________________________________
+
+Epoch(150)   step-time 0.04s  loss 23.068 ppl 2148.27
+loading model.........
+Validation: Epoch(150) step-time 0.01s  loss 20.513 ppl 2724.32
+
+___________________________________________
+
+Epoch(151)   step-time 0.04s  loss 22.010 ppl 2079.96
+loading model.........
+Validation: Epoch(151) step-time 0.01s  loss 20.370 ppl 2717.03
+
+___________________________________________
+
+Epoch(152)   step-time 0.04s  loss 21.817 ppl 2010.08
+loading model.........
+Validation: Epoch(152) step-time 0.01s  loss 20.232 ppl 2711.85
+
+___________________________________________
+
+Epoch(153)   step-time 0.04s  loss 21.490 ppl 1951.02
+loading model.........
+Validation: Epoch(153) step-time 0.01s  loss 20.089 ppl 2700.59
+
+___________________________________________
+
+Epoch(154)   step-time 0.04s  loss 22.135 ppl 2016.17
+loading model.........
+Validation: Epoch(154) step-time 0.01s  loss 19.947 ppl 2688.40
+
+___________________________________________
+
+Epoch(155)   step-time 0.04s  loss 21.053 ppl 2122.15
+loading model.........
+Validation: Epoch(155) step-time 0.01s  loss 19.810 ppl 2679.97
+
+___________________________________________
+
+Epoch(156)   step-time 0.04s  loss 21.521 ppl 2059.66
+loading model.........
+Validation: Epoch(156) step-time 0.01s  loss 19.678 ppl 2674.03
+
+___________________________________________
+
+Epoch(157)   step-time 0.04s  loss 22.461 ppl 2031.36
+loading model.........
+Validation: Epoch(157) step-time 0.01s  loss 19.545 ppl 2666.10
+
+___________________________________________
+
+Epoch(158)   step-time 0.04s  loss 21.185 ppl 2120.92
+loading model.........
+Validation: Epoch(158) step-time 0.01s  loss 19.411 ppl 2655.38
+
+___________________________________________
+
+Epoch(159)   step-time 0.04s  loss 19.675 ppl 1984.09
+loading model.........
+Validation: Epoch(159) step-time 0.01s  loss 19.281 ppl 2646.42
+
+___________________________________________
+
+Epoch(160)   step-time 0.04s  loss 19.073 ppl 1907.99
+loading model.........
+Validation: Epoch(160) step-time 0.01s  loss 19.154 ppl 2638.86
+
+___________________________________________
+
+Epoch(161)   step-time 0.04s  loss 21.491 ppl 1788.84
+loading model.........
+Validation: Epoch(161) step-time 0.01s  loss 19.025 ppl 2628.46
+
+___________________________________________
+
+Epoch(162)   step-time 0.04s  loss 19.878 ppl 2023.71
+loading model.........
+Validation: Epoch(162) step-time 0.01s  loss 18.898 ppl 2617.94
+
+___________________________________________
+
+Epoch(163)   step-time 0.04s  loss 20.471 ppl 2070.95
+loading model.........
+Validation: Epoch(163) step-time 0.01s  loss 18.773 ppl 2608.39
+
+___________________________________________
+
+Epoch(164)   step-time 0.04s  loss 19.982 ppl 1869.73
+loading model.........
+Validation: Epoch(164) step-time 0.01s  loss 18.653 ppl 2601.46
+
+___________________________________________
+
+Epoch(165)   step-time 0.04s  loss 19.801 ppl 2030.23
+loading model.........
+Validation: Epoch(165) step-time 0.01s  loss 18.537 ppl 2598.86
+
+___________________________________________
+
+Epoch(166)   step-time 0.03s  loss 21.029 ppl 1881.19
+loading model.........
+Validation: Epoch(166) step-time 0.01s  loss 18.418 ppl 2590.10
+
+___________________________________________
+
+Epoch(167)   step-time 0.04s  loss 19.983 ppl 1746.75
+loading model.........
+Validation: Epoch(167) step-time 0.01s  loss 18.292 ppl 2573.11
+
+___________________________________________
+
+Epoch(168)   step-time 0.03s  loss 20.180 ppl 1722.02
+loading model.........
+Validation: Epoch(168) step-time 0.01s  loss 18.171 ppl 2560.19
+
+___________________________________________
+
+Epoch(169)   step-time 0.03s  loss 20.959 ppl 1844.97
+loading model.........
+Validation: Epoch(169) step-time 0.01s  loss 18.060 ppl 2555.88
+
+___________________________________________
+
+Epoch(170)   step-time 0.03s  loss 19.979 ppl 1834.26
+loading model.........
+Validation: Epoch(170) step-time 0.01s  loss 17.954 ppl 2556.10
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(171)   step-time 0.03s  loss 19.217 ppl 1844.04
+loading model.........
+Validation: Epoch(171) step-time 0.01s  loss 17.840 ppl 2546.41
+
+___________________________________________
+
+Epoch(172)   step-time 0.03s  loss 18.966 ppl 1837.94
+loading model.........
+Validation: Epoch(172) step-time 0.01s  loss 17.723 ppl 2531.32
+
+___________________________________________
+
+Epoch(173)   step-time 0.03s  loss 18.200 ppl 1801.66
+loading model.........
+Validation: Epoch(173) step-time 0.01s  loss 17.604 ppl 2512.15
+
+___________________________________________
+
+Epoch(174)   step-time 0.03s  loss 19.476 ppl 1744.65
+loading model.........
+Validation: Epoch(174) step-time 0.01s  loss 17.492 ppl 2500.55
+
+___________________________________________
+
+Epoch(175)   step-time 0.03s  loss 19.024 ppl 1774.59
+loading model.........
+Validation: Epoch(175) step-time 0.01s  loss 17.384 ppl 2491.87
+
+___________________________________________
+
+Epoch(176)   step-time 0.03s  loss 18.870 ppl 1685.27
+loading model.........
+Validation: Epoch(176) step-time 0.01s  loss 17.277 ppl 2481.76
+
+___________________________________________
+
+Epoch(177)   step-time 0.03s  loss 19.105 ppl 1804.22
+loading model.........
+Validation: Epoch(177) step-time 0.01s  loss 17.170 ppl 2471.54
+
+___________________________________________
+
+Epoch(178)   step-time 0.03s  loss 19.423 ppl 1749.61
+loading model.........
+Validation: Epoch(178) step-time 0.01s  loss 17.064 ppl 2460.70
+
+___________________________________________
+
+Epoch(179)   step-time 0.03s  loss 19.286 ppl 1730.32
+loading model.........
+Validation: Epoch(179) step-time 0.01s  loss 16.962 ppl 2452.74
+
+___________________________________________
+
+Epoch(180)   step-time 0.03s  loss 19.975 ppl 1608.31
+loading model.........
+Validation: Epoch(180) step-time 0.01s  loss 16.864 ppl 2448.47
+
+___________________________________________
+
+Epoch(181)   step-time 0.03s  loss 18.153 ppl 1720.48
+loading model.........
+Validation: Epoch(181) step-time 0.01s  loss 16.763 ppl 2439.97
+
+___________________________________________
+
+Epoch(182)   step-time 0.03s  loss 18.655 ppl 1605.19
+loading model.........
+Validation: Epoch(182) step-time 0.01s  loss 16.661 ppl 2429.22
+
+___________________________________________
+
+Epoch(183)   step-time 0.03s  loss 18.248 ppl 1726.82
+loading model.........
+Validation: Epoch(183) step-time 0.01s  loss 16.559 ppl 2416.76
+
+___________________________________________
+
+Epoch(184)   step-time 0.03s  loss 18.713 ppl 1592.13
+loading model.........
+Validation: Epoch(184) step-time 0.01s  loss 16.460 ppl 2406.21
+
+___________________________________________
+
+Epoch(185)   step-time 0.03s  loss 19.949 ppl 1581.96
+loading model.........
+Validation: Epoch(185) step-time 0.01s  loss 16.362 ppl 2395.34
+
+___________________________________________
+
+Epoch(186)   step-time 0.03s  loss 16.566 ppl 1561.91
+loading model.........
+Validation: Epoch(186) step-time 0.01s  loss 16.264 ppl 2384.76
+
+___________________________________________
+
+Epoch(187)   step-time 0.03s  loss 19.156 ppl 1518.47
+loading model.........
+Validation: Epoch(187) step-time 0.01s  loss 16.172 ppl 2378.19
+
+___________________________________________
+
+Epoch(188)   step-time 0.03s  loss 18.045 ppl 1545.47
+loading model.........
+Validation: Epoch(188) step-time 0.01s  loss 16.083 ppl 2375.45
+
+___________________________________________
+
+Epoch(189)   step-time 0.03s  loss 16.871 ppl 1551.88
+loading model.........
+Validation: Epoch(189) step-time 0.01s  loss 15.996 ppl 2372.97
+
+___________________________________________
+
+Epoch(190)   step-time 0.03s  loss 16.334 ppl 1535.62
+loading model.........
+Validation: Epoch(190) step-time 0.01s  loss 15.904 ppl 2364.24
+
+___________________________________________
+
+Epoch(191)   step-time 0.03s  loss 16.740 ppl 1556.65
+loading model.........
+Validation: Epoch(191) step-time 0.01s  loss 15.812 ppl 2353.57
+
+___________________________________________
+
+Epoch(192)   step-time 0.03s  loss 16.569 ppl 1450.33
+loading model.........
+Validation: Epoch(192) step-time 0.01s  loss 15.724 ppl 2346.70
+
+___________________________________________
+
+Epoch(193)   step-time 0.03s  loss 15.930 ppl 1510.19
+loading model.........
+Validation: Epoch(193) step-time 0.01s  loss 15.628 ppl 2330.51
+
+___________________________________________
+
+Epoch(194)   step-time 0.03s  loss 16.373 ppl 1508.29
+loading model.........
+Validation: Epoch(194) step-time 0.01s  loss 15.536 ppl 2317.47
+
+___________________________________________
+
+Epoch(195)   step-time 0.03s  loss 16.149 ppl 1541.69
+loading model.........
+Validation: Epoch(195) step-time 0.01s  loss 15.449 ppl 2308.95
+
+___________________________________________
+
+Epoch(196)   step-time 0.03s  loss 16.343 ppl 1500.03
+loading model.........
+Validation: Epoch(196) step-time 0.01s  loss 15.364 ppl 2301.84
+
+___________________________________________
+
+Epoch(197)   step-time 0.03s  loss 16.520 ppl 1428.38
+loading model.........
+Validation: Epoch(197) step-time 0.01s  loss 15.281 ppl 2296.08
+
+___________________________________________
+
+Epoch(198)   step-time 0.03s  loss 15.290 ppl 1373.74
+loading model.........
+Validation: Epoch(198) step-time 0.01s  loss 15.202 ppl 2293.70
+
+___________________________________________
+
+Epoch(199)   step-time 0.03s  loss 15.751 ppl 1541.37
+loading model.........
+Validation: Epoch(199) step-time 0.01s  loss 15.124 ppl 2291.56
+
+___________________________________________
+
+Epoch(200)   step-time 0.03s  loss 17.243 ppl 1359.19
+loading model.........
+Validation: Epoch(200) step-time 0.01s  loss 15.043 ppl 2285.60
+
+___________________________________________
+
+Epoch(201)   step-time 0.03s  loss 15.011 ppl 1412.36
+loading model.........
+Validation: Epoch(201) step-time 0.01s  loss 14.961 ppl 2276.70
+
+___________________________________________
+
+Epoch(202)   step-time 0.03s  loss 16.827 ppl 1382.74
+loading model.........
+Validation: Epoch(202) step-time 0.01s  loss 14.878 ppl 2265.74
+
+___________________________________________
+
+Epoch(203)   step-time 0.03s  loss 16.312 ppl 1358.84
+loading model.........
+Validation: Epoch(203) step-time 0.01s  loss 14.796 ppl 2255.97
+
+___________________________________________
+
+Epoch(204)   step-time 0.03s  loss 15.702 ppl 1294.90
+loading model.........
+Validation: Epoch(204) step-time 0.01s  loss 14.717 ppl 2248.84
+
+___________________________________________
+
+Epoch(205)   step-time 0.03s  loss 14.985 ppl 1354.46
+loading model.........
+Validation: Epoch(205) step-time 0.01s  loss 14.638 ppl 2239.51
+
+___________________________________________
+
+Epoch(206)   step-time 0.03s  loss 15.767 ppl 1341.51
+loading model.........
+Validation: Epoch(206) step-time 0.01s  loss 14.559 ppl 2230.50
+
+___________________________________________
+
+Epoch(207)   step-time 0.03s  loss 16.138 ppl 1359.73
+loading model.........
+Validation: Epoch(207) step-time 0.01s  loss 14.480 ppl 2220.05
+
+___________________________________________
+
+Epoch(208)   step-time 0.03s  loss 15.211 ppl 1284.38
+loading model.........
+Validation: Epoch(208) step-time 0.01s  loss 14.402 ppl 2209.75
+
+___________________________________________
+
+Epoch(209)   step-time 0.03s  loss 14.577 ppl 1365.48
+loading model.........
+Validation: Epoch(209) step-time 0.01s  loss 14.325 ppl 2200.92
+
+___________________________________________
+
+Epoch(210)   step-time 0.03s  loss 16.222 ppl 1322.08
+loading model.........
+Validation: Epoch(210) step-time 0.01s  loss 14.250 ppl 2192.26
+
+___________________________________________
+
+Epoch(211)   step-time 0.03s  loss 15.786 ppl 1251.65
+loading model.........
+Validation: Epoch(211) step-time 0.01s  loss 14.175 ppl 2183.87
+
+___________________________________________
+
+Epoch(212)   step-time 0.03s  loss 13.953 ppl 1289.95
+loading model.........
+Validation: Epoch(212) step-time 0.01s  loss 14.102 ppl 2176.49
+
+___________________________________________
+
+Epoch(213)   step-time 0.03s  loss 14.654 ppl 1223.89
+loading model.........
+Validation: Epoch(213) step-time 0.01s  loss 14.026 ppl 2165.31
+
+___________________________________________
+
+Epoch(214)   step-time 0.03s  loss 14.793 ppl 1190.55
+loading model.........
+Validation: Epoch(214) step-time 0.01s  loss 13.954 ppl 2157.36
+
+___________________________________________
+
+Epoch(215)   step-time 0.03s  loss 15.115 ppl 1264.26
+loading model.........
+Validation: Epoch(215) step-time 0.01s  loss 13.885 ppl 2152.09
+
+___________________________________________
+
+Epoch(216)   step-time 0.03s  loss 15.497 ppl 1201.96
+loading model.........
+Validation: Epoch(216) step-time 0.01s  loss 13.817 ppl 2147.84
+
+___________________________________________
+
+Epoch(217)   step-time 0.03s  loss 14.601 ppl 1216.94
+loading model.........
+Validation: Epoch(217) step-time 0.01s  loss 13.743 ppl 2135.76
+
+___________________________________________
+
+Epoch(218)   step-time 0.03s  loss 14.630 ppl 1235.14
+loading model.........
+Validation: Epoch(218) step-time 0.01s  loss 13.666 ppl 2118.20
+
+___________________________________________
+
+Epoch(219)   step-time 0.03s  loss 15.140 ppl 1211.95
+loading model.........
+Validation: Epoch(219) step-time 0.01s  loss 13.588 ppl 2100.75
+
+___________________________________________
+
+Epoch(220)   step-time 0.03s  loss 14.615 ppl 1209.44
+loading model.........
+Validation: Epoch(220) step-time 0.01s  loss 13.517 ppl 2089.87
+
+___________________________________________
+
+Epoch(221)   step-time 0.03s  loss 14.609 ppl 1151.84
+loading model.........
+Validation: Epoch(221) step-time 0.01s  loss 13.449 ppl 2081.13
+
+___________________________________________
+
+Epoch(222)   step-time 0.03s  loss 13.652 ppl 1132.45
+loading model.........
+Validation: Epoch(222) step-time 0.01s  loss 13.382 ppl 2073.81
+
+___________________________________________
+
+Epoch(223)   step-time 0.03s  loss 13.844 ppl 1114.54
+loading model.........
+Validation: Epoch(223) step-time 0.01s  loss 13.320 ppl 2071.54
+
+___________________________________________
+
+Epoch(224)   step-time 0.03s  loss 13.603 ppl 1195.48
+loading model.........
+Validation: Epoch(224) step-time 0.01s  loss 13.261 ppl 2071.37
+
+___________________________________________
+
+Epoch(225)   step-time 0.03s  loss 13.367 ppl 1108.28
+loading model.........
+Validation: Epoch(225) step-time 0.01s  loss 13.199 ppl 2067.67
+
+___________________________________________
+
+Epoch(226)   step-time 0.03s  loss 13.868 ppl 1058.67
+loading model.........
+Validation: Epoch(226) step-time 0.01s  loss 13.137 ppl 2063.95
+
+___________________________________________
+
+Epoch(227)   step-time 0.03s  loss 13.793 ppl 1101.44
+loading model.........
+Validation: Epoch(227) step-time 0.01s  loss 13.068 ppl 2050.88
+
+___________________________________________
+
+Epoch(228)   step-time 0.03s  loss 14.327 ppl 1013.02
+loading model.........
+Validation: Epoch(228) step-time 0.01s  loss 13.000 ppl 2037.25
+
+___________________________________________
+
+Epoch(229)   step-time 0.03s  loss 13.552 ppl 1068.65
+loading model.........
+Validation: Epoch(229) step-time 0.01s  loss 12.935 ppl 2027.90
+
+___________________________________________
+
+Epoch(230)   step-time 0.03s  loss 13.530 ppl 1072.26
+loading model.........
+Validation: Epoch(230) step-time 0.01s  loss 12.873 ppl 2020.59
+
+___________________________________________
+
+Epoch(231)   step-time 0.03s  loss 13.447 ppl 1075.46
+loading model.........
+Validation: Epoch(231) step-time 0.01s  loss 12.812 ppl 2014.07
+
+___________________________________________
+
+Epoch(232)   step-time 0.02s  loss 12.937 ppl 1008.12
+loading model.........
+Validation: Epoch(232) step-time 0.01s  loss 12.752 ppl 2008.78
+
+___________________________________________
+
+Epoch(233)   step-time 0.03s  loss 13.715 ppl 1039.91
+loading model.........
+Validation: Epoch(233) step-time 0.01s  loss 12.697 ppl 2008.44
+
+___________________________________________
+
+Epoch(234)   step-time 0.02s  loss 12.727 ppl 1034.81
+loading model.........
+Validation: Epoch(234) step-time 0.01s  loss 12.638 ppl 2002.99
+
+___________________________________________
+
+Epoch(235)   step-time 0.03s  loss 13.241 ppl 1006.97
+loading model.........
+Validation: Epoch(235) step-time 0.01s  loss 12.580 ppl 1997.11
+
+___________________________________________
+
+Epoch(236)   step-time 0.02s  loss 13.072 ppl 978.58
+loading model.........
+Validation: Epoch(236) step-time 0.01s  loss 12.514 ppl 1982.62
+
+___________________________________________
+
+Epoch(237)   step-time 0.03s  loss 12.425 ppl 942.11
+loading model.........
+Validation: Epoch(237) step-time 0.01s  loss 12.445 ppl 1962.47
+
+___________________________________________
+
+Epoch(238)   step-time 0.02s  loss 13.305 ppl 976.30
+loading model.........
+Validation: Epoch(238) step-time 0.01s  loss 12.373 ppl 1939.37
+
+___________________________________________
+
+Epoch(239)   step-time 0.02s  loss 13.473 ppl 958.70
+loading model.........
+Validation: Epoch(239) step-time 0.01s  loss 12.305 ppl 1920.10
+
+___________________________________________
+
+Epoch(240)   step-time 0.02s  loss 13.870 ppl 984.50
+loading model.........
+Validation: Epoch(240) step-time 0.01s  loss 12.241 ppl 1905.60
+
+___________________________________________
+
+Epoch(241)   step-time 0.03s  loss 11.796 ppl 944.00
+loading model.........
+Validation: Epoch(241) step-time 0.01s  loss 12.180 ppl 1893.34
+
+___________________________________________
+
+Epoch(242)   step-time 0.02s  loss 12.068 ppl 933.98
+loading model.........
+Validation: Epoch(242) step-time 0.01s  loss 12.123 ppl 1885.11
+
+___________________________________________
+
+Epoch(243)   step-time 0.02s  loss 12.553 ppl 905.68
+loading model.........
+Validation: Epoch(243) step-time 0.01s  loss 12.073 ppl 1885.56
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(244)   step-time 0.02s  loss 12.989 ppl 925.60
+loading model.........
+Validation: Epoch(244) step-time 0.01s  loss 12.025 ppl 1887.31
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(245)   step-time 0.02s  loss 13.004 ppl 945.23
+loading model.........
+Validation: Epoch(245) step-time 0.01s  loss 11.973 ppl 1883.41
+
+___________________________________________
+
+Epoch(246)   step-time 0.02s  loss 12.456 ppl 906.42
+loading model.........
+Validation: Epoch(246) step-time 0.01s  loss 11.913 ppl 1869.80
+
+___________________________________________
+
+Epoch(247)   step-time 0.02s  loss 12.991 ppl 909.26
+loading model.........
+Validation: Epoch(247) step-time 0.01s  loss 11.852 ppl 1854.95
+
+___________________________________________
+
+Epoch(248)   step-time 0.02s  loss 11.326 ppl 815.21
+loading model.........
+Validation: Epoch(248) step-time 0.01s  loss 11.797 ppl 1845.78
+
+___________________________________________
+
+Epoch(249)   step-time 0.02s  loss 13.005 ppl 863.11
+loading model.........
+Validation: Epoch(249) step-time 0.01s  loss 11.745 ppl 1840.45
+
+___________________________________________
+
+Epoch(250)   step-time 0.02s  loss 11.501 ppl 853.43
+loading model.........
+Validation: Epoch(250) step-time 0.01s  loss 11.695 ppl 1837.20
+
+___________________________________________
+
+Epoch(251)   step-time 0.02s  loss 12.552 ppl 826.74
+loading model.........
+Validation: Epoch(251) step-time 0.01s  loss 11.646 ppl 1834.00
+
+___________________________________________
+
+Epoch(252)   step-time 0.02s  loss 12.196 ppl 857.95
+loading model.........
+Validation: Epoch(252) step-time 0.01s  loss 11.597 ppl 1830.71
+
+___________________________________________
+
+Epoch(253)   step-time 0.02s  loss 11.379 ppl 847.29
+loading model.........
+Validation: Epoch(253) step-time 0.01s  loss 11.548 ppl 1827.07
+
+___________________________________________
+
+Epoch(254)   step-time 0.02s  loss 12.527 ppl 846.69
+loading model.........
+Validation: Epoch(254) step-time 0.01s  loss 11.494 ppl 1817.37
+
+___________________________________________
+
+Epoch(255)   step-time 0.02s  loss 11.763 ppl 820.70
+loading model.........
+Validation: Epoch(255) step-time 0.01s  loss 11.439 ppl 1805.70
+
+___________________________________________
+
+Epoch(256)   step-time 0.02s  loss 11.465 ppl 813.02
+loading model.........
+Validation: Epoch(256) step-time 0.01s  loss 11.380 ppl 1788.18
+
+___________________________________________
+
+Epoch(257)   step-time 0.02s  loss 11.398 ppl 778.74
+loading model.........
+Validation: Epoch(257) step-time 0.01s  loss 11.322 ppl 1772.40
+
+___________________________________________
+
+Epoch(258)   step-time 0.02s  loss 11.683 ppl 798.96
+loading model.........
+Validation: Epoch(258) step-time 0.01s  loss 11.265 ppl 1757.57
+
+___________________________________________
+
+Epoch(259)   step-time 0.02s  loss 11.048 ppl 764.47
+loading model.........
+Validation: Epoch(259) step-time 0.01s  loss 11.207 ppl 1740.12
+
+___________________________________________
+
+Epoch(260)   step-time 0.02s  loss 12.599 ppl 768.36
+loading model.........
+Validation: Epoch(260) step-time 0.01s  loss 11.152 ppl 1726.50
+
+___________________________________________
+
+Epoch(261)   step-time 0.02s  loss 11.025 ppl 769.27
+loading model.........
+Validation: Epoch(261) step-time 0.01s  loss 11.100 ppl 1715.80
+
+___________________________________________
+
+Epoch(262)   step-time 0.02s  loss 10.636 ppl 726.16
+loading model.........
+Validation: Epoch(262) step-time 0.01s  loss 11.053 ppl 1710.32
+
+___________________________________________
+
+Epoch(263)   step-time 0.02s  loss 10.242 ppl 724.99
+loading model.........
+Validation: Epoch(263) step-time 0.01s  loss 11.007 ppl 1705.65
+
+___________________________________________
+
+Epoch(264)   step-time 0.02s  loss 10.586 ppl 740.14
+loading model.........
+Validation: Epoch(264) step-time 0.01s  loss 10.959 ppl 1698.35
+
+___________________________________________
+
+Epoch(265)   step-time 0.02s  loss 11.079 ppl 681.37
+loading model.........
+Validation: Epoch(265) step-time 0.01s  loss 10.913 ppl 1693.63
+
+___________________________________________
+
+Epoch(266)   step-time 0.02s  loss 10.598 ppl 736.51
+loading model.........
+Validation: Epoch(266) step-time 0.01s  loss 10.869 ppl 1689.55
+
+___________________________________________
+
+Epoch(267)   step-time 0.02s  loss 10.951 ppl 713.72
+loading model.........
+Validation: Epoch(267) step-time 0.01s  loss 10.826 ppl 1687.02
+
+___________________________________________
+
+Epoch(268)   step-time 0.02s  loss 11.709 ppl 700.12
+loading model.........
+Validation: Epoch(268) step-time 0.01s  loss 10.778 ppl 1678.16
+
+___________________________________________
+
+Epoch(269)   step-time 0.02s  loss 10.154 ppl 667.42
+loading model.........
+Validation: Epoch(269) step-time 0.01s  loss 10.731 ppl 1670.12
+
+___________________________________________
+
+Epoch(270)   step-time 0.02s  loss 11.377 ppl 643.63
+loading model.........
+Validation: Epoch(270) step-time 0.01s  loss 10.685 ppl 1662.62
+
+___________________________________________
+
+Epoch(271)   step-time 0.02s  loss 11.477 ppl 660.68
+loading model.........
+Validation: Epoch(271) step-time 0.01s  loss 10.640 ppl 1656.05
+
+___________________________________________
+
+Epoch(272)   step-time 0.02s  loss 10.573 ppl 622.31
+loading model.........
+Validation: Epoch(272) step-time 0.01s  loss 10.597 ppl 1652.21
+
+___________________________________________
+
+Epoch(273)   step-time 0.02s  loss 10.052 ppl 698.65
+loading model.........
+Validation: Epoch(273) step-time 0.01s  loss 10.555 ppl 1647.85
+
+___________________________________________
+
+Epoch(274)   step-time 0.02s  loss 10.300 ppl 647.21
+loading model.........
+Validation: Epoch(274) step-time 0.01s  loss 10.513 ppl 1644.08
+
+___________________________________________
+
+Epoch(275)   step-time 0.02s  loss 10.616 ppl 620.36
+loading model.........
+Validation: Epoch(275) step-time 0.01s  loss 10.464 ppl 1631.36
+
+___________________________________________
+
+Epoch(276)   step-time 0.02s  loss 11.369 ppl 645.35
+loading model.........
+Validation: Epoch(276) step-time 0.01s  loss 10.413 ppl 1617.24
+
+___________________________________________
+
+Epoch(277)   step-time 0.02s  loss 9.808 ppl 654.55
+loading model.........
+Validation: Epoch(277) step-time 0.01s  loss 10.368 ppl 1607.67
+
+___________________________________________
+
+Epoch(278)   step-time 0.02s  loss 9.349 ppl 622.07
+loading model.........
+Validation: Epoch(278) step-time 0.01s  loss 10.324 ppl 1600.95
+
+___________________________________________
+
+Epoch(279)   step-time 0.02s  loss 11.211 ppl 599.82
+loading model.........
+Validation: Epoch(279) step-time 0.01s  loss 10.286 ppl 1599.36
+
+___________________________________________
+
+Epoch(280)   step-time 0.02s  loss 10.459 ppl 589.97
+loading model.........
+Validation: Epoch(280) step-time 0.01s  loss 10.252 ppl 1602.21
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(281)   step-time 0.02s  loss 10.736 ppl 596.88
+loading model.........
+Validation: Epoch(281) step-time 0.01s  loss 10.216 ppl 1603.02
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(282)   step-time 0.02s  loss 10.572 ppl 608.57
+loading model.........
+Validation: Epoch(282) step-time 0.01s  loss 10.183 ppl 1606.82
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(283)   step-time 0.02s  loss 9.549 ppl 603.88
+loading model.........
+Validation: Epoch(283) step-time 0.01s  loss 10.142 ppl 1600.94
+
+___________________________________________
+
+Epoch(284)   step-time 0.02s  loss 9.993 ppl 571.98
+loading model.........
+Validation: Epoch(284) step-time 0.01s  loss 10.095 ppl 1588.08
+
+___________________________________________
+
+Epoch(285)   step-time 0.02s  loss 10.434 ppl 582.63
+loading model.........
+Validation: Epoch(285) step-time 0.01s  loss 10.048 ppl 1574.79
+
+___________________________________________
+
+Epoch(286)   step-time 0.02s  loss 10.385 ppl 547.76
+loading model.........
+Validation: Epoch(286) step-time 0.01s  loss 10.008 ppl 1568.36
+
+___________________________________________
+
+Epoch(287)   step-time 0.02s  loss 9.732 ppl 563.24
+loading model.........
+Validation: Epoch(287) step-time 0.01s  loss 9.964 ppl 1557.71
+
+___________________________________________
+
+Epoch(288)   step-time 0.02s  loss 9.831 ppl 555.67
+loading model.........
+Validation: Epoch(288) step-time 0.01s  loss 9.921 ppl 1548.33
+
+___________________________________________
+
+Epoch(289)   step-time 0.02s  loss 9.373 ppl 552.45
+loading model.........
+Validation: Epoch(289) step-time 0.01s  loss 9.882 ppl 1542.82
+
+___________________________________________
+
+Epoch(290)   step-time 0.02s  loss 10.733 ppl 551.99
+loading model.........
+Validation: Epoch(290) step-time 0.01s  loss 9.840 ppl 1533.59
+
+___________________________________________
+
+Epoch(291)   step-time 0.02s  loss 9.366 ppl 533.66
+loading model.........
+Validation: Epoch(291) step-time 0.01s  loss 9.796 ppl 1522.84
+
+___________________________________________
+
+Epoch(292)   step-time 0.02s  loss 9.535 ppl 521.64
+loading model.........
+Validation: Epoch(292) step-time 0.01s  loss 9.750 ppl 1508.57
+
+___________________________________________
+
+Epoch(293)   step-time 0.02s  loss 9.592 ppl 494.85
+loading model.........
+Validation: Epoch(293) step-time 0.01s  loss 9.704 ppl 1493.68
+
+___________________________________________
+
+Epoch(294)   step-time 0.02s  loss 8.644 ppl 499.55
+loading model.........
+Validation: Epoch(294) step-time 0.01s  loss 9.658 ppl 1478.96
+
+___________________________________________
+
+Epoch(295)   step-time 0.02s  loss 9.871 ppl 524.28
+loading model.........
+Validation: Epoch(295) step-time 0.01s  loss 9.618 ppl 1470.98
+
+___________________________________________
+
+Epoch(296)   step-time 0.02s  loss 9.214 ppl 506.14
+loading model.........
+Validation: Epoch(296) step-time 0.01s  loss 9.578 ppl 1463.30
+
+___________________________________________
+
+Epoch(297)   step-time 0.02s  loss 8.985 ppl 488.60
+loading model.........
+Validation: Epoch(297) step-time 0.01s  loss 9.543 ppl 1459.83
+
+___________________________________________
+
+Epoch(298)   step-time 0.02s  loss 8.820 ppl 478.10
+loading model.........
+Validation: Epoch(298) step-time 0.01s  loss 9.505 ppl 1453.25
+
+___________________________________________
+
+Epoch(299)   step-time 0.02s  loss 8.958 ppl 500.07
+loading model.........
+Validation: Epoch(299) step-time 0.01s  loss 9.468 ppl 1447.69
+
+___________________________________________
+
+Epoch(300)   step-time 0.02s  loss 9.125 ppl 476.08
+loading model.........
+Validation: Epoch(300) step-time 0.01s  loss 9.430 ppl 1439.80
+
+___________________________________________
+
+Epoch(301)   step-time 0.02s  loss 8.864 ppl 487.98
+loading model.........
+Validation: Epoch(301) step-time 0.01s  loss 9.393 ppl 1433.62
+
+___________________________________________
+
+Epoch(302)   step-time 0.02s  loss 9.500 ppl 453.50
+loading model.........
+Validation: Epoch(302) step-time 0.01s  loss 9.348 ppl 1418.75
+
+___________________________________________
+
+Epoch(303)   step-time 0.02s  loss 8.967 ppl 454.72
+loading model.........
+Validation: Epoch(303) step-time 0.01s  loss 9.302 ppl 1401.75
+
+___________________________________________
+
+Epoch(304)   step-time 0.02s  loss 8.763 ppl 444.02
+loading model.........
+Validation: Epoch(304) step-time 0.01s  loss 9.265 ppl 1394.70
+
+___________________________________________
+
+Epoch(305)   step-time 0.02s  loss 9.054 ppl 444.02
+loading model.........
+Validation: Epoch(305) step-time 0.01s  loss 9.234 ppl 1393.63
+
+___________________________________________
+
+Epoch(306)   step-time 0.02s  loss 9.740 ppl 460.63
+loading model.........
+Validation: Epoch(306) step-time 0.01s  loss 9.193 ppl 1382.42
+
+___________________________________________
+
+Epoch(307)   step-time 0.02s  loss 9.263 ppl 441.27
+loading model.........
+Validation: Epoch(307) step-time 0.01s  loss 9.156 ppl 1374.99
+
+___________________________________________
+
+Epoch(308)   step-time 0.02s  loss 9.049 ppl 422.35
+loading model.........
+Validation: Epoch(308) step-time 0.01s  loss 9.126 ppl 1374.66
+
+___________________________________________
+
+Epoch(309)   step-time 0.02s  loss 9.183 ppl 441.01
+loading model.........
+Validation: Epoch(309) step-time 0.01s  loss 9.092 ppl 1369.72
+
+___________________________________________
+
+Epoch(310)   step-time 0.02s  loss 8.612 ppl 431.54
+loading model.........
+Validation: Epoch(310) step-time 0.01s  loss 9.055 ppl 1361.18
+
+___________________________________________
+
+Epoch(311)   step-time 0.02s  loss 9.334 ppl 412.55
+loading model.........
+Validation: Epoch(311) step-time 0.01s  loss 9.021 ppl 1355.86
+
+___________________________________________
+
+Epoch(312)   step-time 0.02s  loss 9.521 ppl 394.30
+loading model.........
+Validation: Epoch(312) step-time 0.01s  loss 8.989 ppl 1352.96
+
+___________________________________________
+
+Epoch(313)   step-time 0.02s  loss 9.571 ppl 395.20
+loading model.........
+Validation: Epoch(313) step-time 0.01s  loss 8.958 ppl 1349.50
+
+___________________________________________
+
+Epoch(314)   step-time 0.02s  loss 8.749 ppl 392.41
+loading model.........
+Validation: Epoch(314) step-time 0.01s  loss 8.929 ppl 1349.85
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(315)   step-time 0.02s  loss 8.448 ppl 370.16
+loading model.........
+Validation: Epoch(315) step-time 0.01s  loss 8.903 ppl 1351.57
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(316)   step-time 0.02s  loss 8.190 ppl 383.57
+loading model.........
+Validation: Epoch(316) step-time 0.01s  loss 8.872 ppl 1349.46
+
+___________________________________________
+
+Epoch(317)   step-time 0.02s  loss 8.308 ppl 397.68
+loading model.........
+Validation: Epoch(317) step-time 0.01s  loss 8.836 ppl 1340.56
+
+___________________________________________
+
+Epoch(318)   step-time 0.02s  loss 8.636 ppl 367.27
+loading model.........
+Validation: Epoch(318) step-time 0.01s  loss 8.803 ppl 1335.01
+
+___________________________________________
+
+Epoch(319)   step-time 0.02s  loss 8.336 ppl 349.87
+loading model.........
+Validation: Epoch(319) step-time 0.01s  loss 8.767 ppl 1325.17
+
+___________________________________________
+
+Epoch(320)   step-time 0.02s  loss 8.854 ppl 357.18
+loading model.........
+Validation: Epoch(320) step-time 0.01s  loss 8.730 ppl 1315.14
+
+___________________________________________
+
+Epoch(321)   step-time 0.02s  loss 7.870 ppl 371.05
+loading model.........
+Validation: Epoch(321) step-time 0.01s  loss 8.688 ppl 1298.89
+
+___________________________________________
+
+Epoch(322)   step-time 0.02s  loss 7.672 ppl 358.56
+loading model.........
+Validation: Epoch(322) step-time 0.01s  loss 8.648 ppl 1285.35
+
+___________________________________________
+
+Epoch(323)   step-time 0.02s  loss 7.972 ppl 357.34
+loading model.........
+Validation: Epoch(323) step-time 0.01s  loss 8.612 ppl 1275.15
+
+___________________________________________
+
+Epoch(324)   step-time 0.02s  loss 8.972 ppl 346.90
+loading model.........
+Validation: Epoch(324) step-time 0.01s  loss 8.578 ppl 1267.05
+
+___________________________________________
+
+Epoch(325)   step-time 0.02s  loss 7.899 ppl 351.21
+loading model.........
+Validation: Epoch(325) step-time 0.01s  loss 8.545 ppl 1260.84
+
+___________________________________________
+
+Epoch(326)   step-time 0.02s  loss 8.178 ppl 341.63
+loading model.........
+Validation: Epoch(326) step-time 0.01s  loss 8.520 ppl 1261.35
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(327)   step-time 0.02s  loss 7.459 ppl 337.30
+loading model.........
+Validation: Epoch(327) step-time 0.01s  loss 8.502 ppl 1270.61
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(328)   step-time 0.02s  loss 8.380 ppl 330.02
+loading model.........
+Validation: Epoch(328) step-time 0.01s  loss 8.487 ppl 1282.02
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(329)   step-time 0.02s  loss 8.253 ppl 326.87
+loading model.........
+Validation: Epoch(329) step-time 0.01s  loss 8.471 ppl 1292.24
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(330)   step-time 0.02s  loss 7.936 ppl 332.67
+loading model.........
+Validation: Epoch(330) step-time 0.01s  loss 8.450 ppl 1297.96
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(331)   step-time 0.02s  loss 7.920 ppl 313.93
+loading model.........
+Validation: Epoch(331) step-time 0.01s  loss 8.416 ppl 1288.76
+
+___________________________________________
+
+Epoch(332)   step-time 0.02s  loss 7.628 ppl 324.50
+loading model.........
+Validation: Epoch(332) step-time 0.01s  loss 8.359 ppl 1253.93
+
+___________________________________________
+
+Epoch(333)   step-time 0.02s  loss 7.711 ppl 312.49
+loading model.........
+Validation: Epoch(333) step-time 0.01s  loss 8.309 ppl 1227.72
+
+___________________________________________
+
+Epoch(334)   step-time 0.02s  loss 7.627 ppl 306.40
+loading model.........
+Validation: Epoch(334) step-time 0.01s  loss 8.262 ppl 1204.11
+
+___________________________________________
+
+Epoch(335)   step-time 0.02s  loss 7.702 ppl 297.67
+loading model.........
+Validation: Epoch(335) step-time 0.01s  loss 8.227 ppl 1193.55
+
+___________________________________________
+
+Epoch(336)   step-time 0.02s  loss 7.678 ppl 297.35
+loading model.........
+Validation: Epoch(336) step-time 0.01s  loss 8.203 ppl 1193.90
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(337)   step-time 0.02s  loss 7.318 ppl 293.61
+loading model.........
+Validation: Epoch(337) step-time 0.01s  loss 8.187 ppl 1203.24
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(338)   step-time 0.02s  loss 7.953 ppl 283.43
+loading model.........
+Validation: Epoch(338) step-time 0.01s  loss 8.173 ppl 1214.06
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(339)   step-time 0.02s  loss 7.518 ppl 291.90
+loading model.........
+Validation: Epoch(339) step-time 0.01s  loss 8.166 ppl 1231.62
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(340)   step-time 0.02s  loss 7.473 ppl 279.71
+loading model.........
+Validation: Epoch(340) step-time 0.01s  loss 8.158 ppl 1249.68
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(341)   step-time 0.02s  loss 7.536 ppl 276.76
+loading model.........
+Validation: Epoch(341) step-time 0.01s  loss 8.136 ppl 1251.41
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(342)   step-time 0.02s  loss 6.918 ppl 283.43
+loading model.........
+Validation: Epoch(342) step-time 0.01s  loss 8.101 ppl 1239.48
+
+___________________________________________
+
+Epoch(343)   step-time 0.02s  loss 7.926 ppl 265.78
+loading model.........
+Validation: Epoch(343) step-time 0.01s  loss 8.060 ppl 1220.25
+
+___________________________________________
+
+Epoch(344)   step-time 0.02s  loss 7.612 ppl 272.29
+loading model.........
+Validation: Epoch(344) step-time 0.01s  loss 8.023 ppl 1206.29
+
+___________________________________________
+
+Epoch(345)   step-time 0.02s  loss 7.337 ppl 263.81
+loading model.........
+Validation: Epoch(345) step-time 0.01s  loss 7.979 ppl 1183.88
+
+___________________________________________
+
+Epoch(346)   step-time 0.02s  loss 7.346 ppl 263.54
+loading model.........
+Validation: Epoch(346) step-time 0.01s  loss 7.946 ppl 1173.57
+
+___________________________________________
+
+Epoch(347)   step-time 0.02s  loss 6.649 ppl 266.77
+loading model.........
+Validation: Epoch(347) step-time 0.01s  loss 7.911 ppl 1161.01
+
+___________________________________________
+
+Epoch(348)   step-time 0.02s  loss 7.276 ppl 254.82
+loading model.........
+Validation: Epoch(348) step-time 0.01s  loss 7.881 ppl 1152.92
+
+___________________________________________
+
+Epoch(349)   step-time 0.02s  loss 6.380 ppl 257.94
+loading model.........
+Validation: Epoch(349) step-time 0.01s  loss 7.852 ppl 1147.09
+
+___________________________________________
+
+Epoch(350)   step-time 0.02s  loss 6.978 ppl 254.20
+loading model.........
+Validation: Epoch(350) step-time 0.01s  loss 7.831 ppl 1148.29
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(351)   step-time 0.02s  loss 7.439 ppl 243.91
+loading model.........
+Validation: Epoch(351) step-time 0.01s  loss 7.806 ppl 1145.52
+
+___________________________________________
+
+Epoch(352)   step-time 0.02s  loss 7.022 ppl 252.12
+loading model.........
+Validation: Epoch(352) step-time 0.01s  loss 7.790 ppl 1151.33
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(353)   step-time 0.02s  loss 6.511 ppl 237.94
+loading model.........
+Validation: Epoch(353) step-time 0.01s  loss 7.766 ppl 1149.77
+
+___________________________________________
+
+Epoch(354)   step-time 0.02s  loss 7.178 ppl 236.25
+loading model.........
+Validation: Epoch(354) step-time 0.01s  loss 7.741 ppl 1146.66
+
+___________________________________________
+
+Epoch(355)   step-time 0.02s  loss 6.178 ppl 234.04
+loading model.........
+Validation: Epoch(355) step-time 0.01s  loss 7.709 ppl 1135.69
+
+___________________________________________
+
+Epoch(356)   step-time 0.02s  loss 6.829 ppl 235.77
+loading model.........
+Validation: Epoch(356) step-time 0.01s  loss 7.677 ppl 1125.19
+
+___________________________________________
+
+Epoch(357)   step-time 0.02s  loss 7.331 ppl 230.63
+loading model.........
+Validation: Epoch(357) step-time 0.01s  loss 7.653 ppl 1122.31
+
+___________________________________________
+
+Epoch(358)   step-time 0.02s  loss 6.884 ppl 230.58
+loading model.........
+Validation: Epoch(358) step-time 0.01s  loss 7.631 ppl 1121.66
+
+___________________________________________
+
+Epoch(359)   step-time 0.02s  loss 6.905 ppl 224.20
+loading model.........
+Validation: Epoch(359) step-time 0.01s  loss 7.612 ppl 1124.68
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(360)   step-time 0.02s  loss 6.897 ppl 218.35
+loading model.........
+Validation: Epoch(360) step-time 0.01s  loss 7.587 ppl 1120.56
+
+___________________________________________
+
+Epoch(361)   step-time 0.02s  loss 6.892 ppl 213.13
+loading model.........
+Validation: Epoch(361) step-time 0.01s  loss 7.571 ppl 1125.96
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(362)   step-time 0.02s  loss 6.862 ppl 216.26
+loading model.........
+Validation: Epoch(362) step-time 0.01s  loss 7.544 ppl 1119.25
+
+___________________________________________
+
+Epoch(363)   step-time 0.02s  loss 6.952 ppl 212.27
+loading model.........
+Validation: Epoch(363) step-time 0.01s  loss 7.520 ppl 1116.09
+
+___________________________________________
+
+Epoch(364)   step-time 0.02s  loss 6.424 ppl 216.01
+loading model.........
+Validation: Epoch(364) step-time 0.01s  loss 7.491 ppl 1106.73
+
+___________________________________________
+
+Epoch(365)   step-time 0.02s  loss 6.705 ppl 206.82
+loading model.........
+Validation: Epoch(365) step-time 0.01s  loss 7.464 ppl 1100.88
+
+___________________________________________
+
+Epoch(366)   step-time 0.02s  loss 6.132 ppl 201.48
+loading model.........
+Validation: Epoch(366) step-time 0.01s  loss 7.451 ppl 1107.91
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(367)   step-time 0.02s  loss 6.569 ppl 202.31
+loading model.........
+Validation: Epoch(367) step-time 0.01s  loss 7.430 ppl 1107.15
+
+___________________________________________
+
+Epoch(368)   step-time 0.02s  loss 6.787 ppl 203.25
+loading model.........
+Validation: Epoch(368) step-time 0.01s  loss 7.408 ppl 1105.87
+
+___________________________________________
+
+Epoch(369)   step-time 0.02s  loss 6.508 ppl 191.50
+loading model.........
+Validation: Epoch(369) step-time 0.01s  loss 7.386 ppl 1103.92
+
+___________________________________________
+
+Epoch(370)   step-time 0.02s  loss 6.765 ppl 196.55
+loading model.........
+Validation: Epoch(370) step-time 0.01s  loss 7.371 ppl 1108.98
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(371)   step-time 0.02s  loss 6.593 ppl 188.25
+loading model.........
+Validation: Epoch(371) step-time 0.01s  loss 7.368 ppl 1127.23
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(372)   step-time 0.02s  loss 6.799 ppl 192.22
+loading model.........
+Validation: Epoch(372) step-time 0.01s  loss 7.360 ppl 1140.04
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(373)   step-time 0.02s  loss 6.216 ppl 192.09
+loading model.........
+Validation: Epoch(373) step-time 0.01s  loss 7.336 ppl 1134.95
+
+___________________________________________
+
+Epoch(374)   step-time 0.02s  loss 5.708 ppl 184.82
+loading model.........
+Validation: Epoch(374) step-time 0.01s  loss 7.303 ppl 1119.84
+
+___________________________________________
+
+Epoch(375)   step-time 0.02s  loss 6.248 ppl 186.82
+loading model.........
+Validation: Epoch(375) step-time 0.01s  loss 7.265 ppl 1100.01
+
+___________________________________________
+
+Epoch(376)   step-time 0.02s  loss 6.497 ppl 176.83
+loading model.........
+Validation: Epoch(376) step-time 0.01s  loss 7.224 ppl 1078.12
+
+___________________________________________
+
+Epoch(377)   step-time 0.02s  loss 6.700 ppl 182.70
+loading model.........
+Validation: Epoch(377) step-time 0.01s  loss 7.203 ppl 1075.57
+
+___________________________________________
+
+Epoch(378)   step-time 0.02s  loss 6.560 ppl 177.07
+loading model.........
+Validation: Epoch(378) step-time 0.01s  loss 7.171 ppl 1061.96
+
+___________________________________________
+
+Epoch(379)   step-time 0.02s  loss 5.824 ppl 177.88
+loading model.........
+Validation: Epoch(379) step-time 0.01s  loss 7.155 ppl 1065.23
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(380)   step-time 0.02s  loss 6.126 ppl 178.55
+loading model.........
+Validation: Epoch(380) step-time 0.01s  loss 7.138 ppl 1066.99
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(381)   step-time 0.02s  loss 5.960 ppl 180.64
+loading model.........
+Validation: Epoch(381) step-time 0.01s  loss 7.123 ppl 1071.41
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(382)   step-time 0.02s  loss 6.088 ppl 171.57
+loading model.........
+Validation: Epoch(382) step-time 0.01s  loss 7.126 ppl 1094.47
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(383)   step-time 0.02s  loss 5.690 ppl 166.59
+loading model.........
+Validation: Epoch(383) step-time 0.01s  loss 7.156 ppl 1147.47
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(384)   step-time 0.02s  loss 6.043 ppl 165.94
+loading model.........
+Validation: Epoch(384) step-time 0.01s  loss 7.140 ppl 1151.31
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(385)   step-time 0.02s  loss 6.058 ppl 162.76
+loading model.........
+Validation: Epoch(385) step-time 0.01s  loss 7.083 ppl 1108.15
+
+___________________________________________
+
+Epoch(386)   step-time 0.02s  loss 5.561 ppl 165.88
+loading model.........
+Validation: Epoch(386) step-time 0.01s  loss 7.000 ppl 1038.59
+
+___________________________________________
+
+Epoch(387)   step-time 0.01s  loss 5.933 ppl 160.81
+loading model.........
+Validation: Epoch(387) step-time 0.01s  loss 6.941 ppl 997.27
+
+___________________________________________
+
+Epoch(388)   step-time 0.02s  loss 5.462 ppl 157.29
+loading model.........
+Validation: Epoch(388) step-time 0.01s  loss 6.904 ppl 979.04
+
+___________________________________________
+
+Epoch(389)   step-time 0.01s  loss 5.907 ppl 157.83
+loading model.........
+Validation: Epoch(389) step-time 0.01s  loss 6.894 ppl 986.13
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(390)   step-time 0.02s  loss 6.301 ppl 152.24
+loading model.........
+Validation: Epoch(390) step-time 0.01s  loss 6.920 ppl 1030.75
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(391)   step-time 0.02s  loss 5.945 ppl 153.15
+loading model.........
+Validation: Epoch(391) step-time 0.01s  loss 6.963 ppl 1094.99
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(392)   step-time 0.02s  loss 5.374 ppl 152.53
+loading model.........
+Validation: Epoch(392) step-time 0.01s  loss 7.003 ppl 1160.64
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(393)   step-time 0.01s  loss 6.082 ppl 151.68
+loading model.........
+Validation: Epoch(393) step-time 0.01s  loss 7.014 ppl 1194.95
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(394)   step-time 0.01s  loss 5.514 ppl 149.30
+loading model.........
+Validation: Epoch(394) step-time 0.01s  loss 6.967 ppl 1159.97
+
+___________________________________________
+
+Epoch(395)   step-time 0.01s  loss 5.839 ppl 145.66
+loading model.........
+Validation: Epoch(395) step-time 0.01s  loss 6.887 ppl 1089.52
+
+___________________________________________
+
+Epoch(396)   step-time 0.02s  loss 5.669 ppl 148.45
+loading model.........
+Validation: Epoch(396) step-time 0.01s  loss 6.817 ppl 1032.05
+
+___________________________________________
+
+Epoch(397)   step-time 0.01s  loss 5.705 ppl 143.55
+loading model.........
+Validation: Epoch(397) step-time 0.01s  loss 6.769 ppl 1000.33
+
+___________________________________________
+
+Epoch(398)   step-time 0.01s  loss 5.588 ppl 144.80
+loading model.........
+Validation: Epoch(398) step-time 0.01s  loss 6.742 ppl 990.72
+
+___________________________________________
+
+Epoch(399)   step-time 0.01s  loss 5.598 ppl 141.49
+loading model.........
+Validation: Epoch(399) step-time 0.01s  loss 6.740 ppl 1005.45
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(400)   step-time 0.01s  loss 5.758 ppl 138.63
+loading model.........
+Validation: Epoch(400) step-time 0.01s  loss 6.754 ppl 1037.93
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(401)   step-time 0.01s  loss 5.479 ppl 139.45
+loading model.........
+Validation: Epoch(401) step-time 0.01s  loss 6.777 ppl 1081.79
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(402)   step-time 0.01s  loss 5.592 ppl 138.30
+loading model.........
+Validation: Epoch(402) step-time 0.01s  loss 6.772 ppl 1094.46
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(403)   step-time 0.01s  loss 5.370 ppl 135.30
+loading model.........
+Validation: Epoch(403) step-time 0.01s  loss 6.770 ppl 1112.24
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(404)   step-time 0.01s  loss 5.490 ppl 135.25
+loading model.........
+Validation: Epoch(404) step-time 0.00s  loss 6.744 ppl 1101.49
+
+___________________________________________
+
+Epoch(405)   step-time 0.01s  loss 5.448 ppl 133.30
+loading model.........
+Validation: Epoch(405) step-time 0.00s  loss 6.696 ppl 1065.67
+
+___________________________________________
+
+Epoch(406)   step-time 0.01s  loss 5.606 ppl 133.62
+loading model.........
+Validation: Epoch(406) step-time 0.00s  loss 6.650 ppl 1033.77
+
+___________________________________________
+
+Epoch(407)   step-time 0.01s  loss 5.195 ppl 127.70
+loading model.........
+Validation: Epoch(407) step-time 0.00s  loss 6.621 ppl 1020.09
+
+___________________________________________
+
+Epoch(408)   step-time 0.01s  loss 5.510 ppl 129.77
+loading model.........
+Validation: Epoch(408) step-time 0.00s  loss 6.615 ppl 1030.99
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(409)   step-time 0.01s  loss 5.342 ppl 125.68
+loading model.........
+Validation: Epoch(409) step-time 0.01s  loss 6.628 ppl 1062.99
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(410)   step-time 0.02s  loss 5.068 ppl 125.44
+loading model.........
+Validation: Epoch(410) step-time 0.01s  loss 6.628 ppl 1081.70
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(411)   step-time 0.01s  loss 5.169 ppl 127.83
+loading model.........
+Validation: Epoch(411) step-time 0.00s  loss 6.635 ppl 1107.54
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(412)   step-time 0.01s  loss 5.331 ppl 122.24
+loading model.........
+Validation: Epoch(412) step-time 0.00s  loss 6.647 ppl 1141.73
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(413)   step-time 0.01s  loss 4.996 ppl 122.66
+loading model.........
+Validation: Epoch(413) step-time 0.00s  loss 6.635 ppl 1145.80
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(414)   step-time 0.01s  loss 4.860 ppl 120.42
+loading model.........
+Validation: Epoch(414) step-time 0.00s  loss 6.607 ppl 1131.61
+
+___________________________________________
+
+Epoch(415)   step-time 0.01s  loss 5.191 ppl 121.23
+loading model.........
+Validation: Epoch(415) step-time 0.00s  loss 6.591 ppl 1131.48
+
+___________________________________________
+
+Epoch(416)   step-time 0.01s  loss 5.323 ppl 119.40
+loading model.........
+Validation: Epoch(416) step-time 0.00s  loss 6.574 ppl 1130.26
+
+___________________________________________
+
+Epoch(417)   step-time 0.01s  loss 5.363 ppl 114.17
+loading model.........
+Validation: Epoch(417) step-time 0.00s  loss 6.560 ppl 1132.51
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(418)   step-time 0.01s  loss 4.901 ppl 118.59
+loading model.........
+Validation: Epoch(418) step-time 0.01s  loss 6.524 ppl 1107.64
+
+___________________________________________
+
+Epoch(419)   step-time 0.02s  loss 5.194 ppl 117.03
+loading model.........
+Validation: Epoch(419) step-time 0.00s  loss 6.500 ppl 1098.03
+
+___________________________________________
+
+Epoch(420)   step-time 0.01s  loss 4.784 ppl 114.26
+loading model.........
+Validation: Epoch(420) step-time 0.00s  loss 6.484 ppl 1097.99
+
+___________________________________________
+
+Epoch(421)   step-time 0.01s  loss 5.180 ppl 114.55
+loading model.........
+Validation: Epoch(421) step-time 0.00s  loss 6.487 ppl 1119.09
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(422)   step-time 0.01s  loss 5.400 ppl 113.01
+loading model.........
+Validation: Epoch(422) step-time 0.01s  loss 6.484 ppl 1135.18
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(423)   step-time 0.02s  loss 4.777 ppl 108.66
+loading model.........
+Validation: Epoch(423) step-time 0.00s  loss 6.494 ppl 1166.66
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(424)   step-time 0.01s  loss 5.141 ppl 109.68
+loading model.........
+Validation: Epoch(424) step-time 0.00s  loss 6.529 ppl 1232.59
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(425)   step-time 0.01s  loss 5.246 ppl 108.19
+loading model.........
+Validation: Epoch(425) step-time 0.01s  loss 6.514 ppl 1233.12
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(426)   step-time 0.02s  loss 5.435 ppl 105.53
+loading model.........
+Validation: Epoch(426) step-time 0.01s  loss 6.477 ppl 1203.49
+
+___________________________________________
+
+Epoch(427)   step-time 0.01s  loss 5.026 ppl 107.30
+loading model.........
+Validation: Epoch(427) step-time 0.01s  loss 6.428 ppl 1160.16
+
+___________________________________________
+
+Epoch(428)   step-time 0.02s  loss 5.254 ppl 105.18
+loading model.........
+Validation: Epoch(428) step-time 0.01s  loss 6.400 ppl 1143.30
+
+___________________________________________
+
+Epoch(429)   step-time 0.02s  loss 4.967 ppl 105.89
+loading model.........
+Validation: Epoch(429) step-time 0.01s  loss 6.392 ppl 1151.72
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(430)   step-time 0.02s  loss 4.484 ppl 104.14
+loading model.........
+Validation: Epoch(430) step-time 0.00s  loss 6.415 ppl 1201.57
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(431)   step-time 0.01s  loss 4.837 ppl 104.94
+loading model.........
+Validation: Epoch(431) step-time 0.00s  loss 6.385 ppl 1181.70
+
+___________________________________________
+
+Epoch(432)   step-time 0.01s  loss 4.753 ppl 100.88
+loading model.........
+Validation: Epoch(432) step-time 0.00s  loss 6.356 ppl 1162.47
+
+___________________________________________
+
+Epoch(433)   step-time 0.01s  loss 4.882 ppl 100.07
+loading model.........
+Validation: Epoch(433) step-time 0.00s  loss 6.327 ppl 1144.44
+
+___________________________________________
+
+Epoch(434)   step-time 0.01s  loss 4.468 ppl 97.91
+loading model.........
+Validation: Epoch(434) step-time 0.00s  loss 6.369 ppl 1218.74
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(435)   step-time 0.01s  loss 4.617 ppl 99.06
+loading model.........
+Validation: Epoch(435) step-time 0.00s  loss 6.477 ppl 1397.45
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(436)   step-time 0.01s  loss 4.430 ppl 99.38
+loading model.........
+Validation: Epoch(436) step-time 0.00s  loss 6.413 ppl 1323.76
+
+___________________________________________
+
+Epoch(437)   step-time 0.01s  loss 4.742 ppl 95.97
+loading model.........
+Validation: Epoch(437) step-time 0.00s  loss 6.415 ppl 1348.76
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(438)   step-time 0.01s  loss 4.641 ppl 95.39
+loading model.........
+Validation: Epoch(438) step-time 0.00s  loss 6.321 ppl 1233.04
+
+___________________________________________
+
+Epoch(439)   step-time 0.01s  loss 4.456 ppl 95.56
+loading model.........
+Validation: Epoch(439) step-time 0.00s  loss 6.326 ppl 1260.40
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(440)   step-time 0.01s  loss 4.617 ppl 93.20
+loading model.........
+Validation: Epoch(440) step-time 0.00s  loss 6.261 ppl 1190.37
+
+___________________________________________
+
+Epoch(441)   step-time 0.01s  loss 4.779 ppl 90.31
+loading model.........
+Validation: Epoch(441) step-time 0.00s  loss 6.289 ppl 1248.83
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(442)   step-time 0.01s  loss 4.600 ppl 89.83
+loading model.........
+Validation: Epoch(442) step-time 0.00s  loss 6.291 ppl 1272.38
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(443)   step-time 0.01s  loss 4.740 ppl 88.85
+loading model.........
+Validation: Epoch(443) step-time 0.00s  loss 6.323 ppl 1340.15
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(444)   step-time 0.01s  loss 4.334 ppl 86.03
+loading model.........
+Validation: Epoch(444) step-time 0.00s  loss 6.295 ppl 1319.90
+
+___________________________________________
+
+Epoch(445)   step-time 0.01s  loss 4.553 ppl 85.04
+loading model.........
+Validation: Epoch(445) step-time 0.00s  loss 6.213 ppl 1221.22
+
+___________________________________________
+
+Epoch(446)   step-time 0.01s  loss 4.745 ppl 86.93
+loading model.........
+Validation: Epoch(446) step-time 0.00s  loss 6.200 ppl 1221.93
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(447)   step-time 0.01s  loss 4.721 ppl 85.04
+loading model.........
+Validation: Epoch(447) step-time 0.00s  loss 6.092 ppl 1097.55
+
+___________________________________________
+
+Epoch(448)   step-time 0.01s  loss 4.442 ppl 84.93
+loading model.........
+Validation: Epoch(448) step-time 0.00s  loss 6.089 ppl 1110.10
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(449)   step-time 0.01s  loss 4.444 ppl 85.11
+loading model.........
+Validation: Epoch(449) step-time 0.00s  loss 6.134 ppl 1188.36
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(450)   step-time 0.01s  loss 4.600 ppl 80.31
+loading model.........
+Validation: Epoch(450) step-time 0.00s  loss 6.154 ppl 1235.05
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(451)   step-time 0.01s  loss 4.364 ppl 80.08
+loading model.........
+Validation: Epoch(451) step-time 0.00s  loss 6.215 ppl 1346.21
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(452)   step-time 0.01s  loss 4.379 ppl 79.78
+loading model.........
+Validation: Epoch(452) step-time 0.00s  loss 6.315 ppl 1536.35
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(453)   step-time 0.01s  loss 4.528 ppl 79.35
+loading model.........
+Validation: Epoch(453) step-time 0.00s  loss 6.335 ppl 1599.83
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(454)   step-time 0.01s  loss 4.604 ppl 78.55
+loading model.........
+Validation: Epoch(454) step-time 0.00s  loss 6.162 ppl 1328.20
+
+___________________________________________
+
+Epoch(455)   step-time 0.01s  loss 4.345 ppl 76.33
+loading model.........
+Validation: Epoch(455) step-time 0.00s  loss 6.042 ppl 1172.74
+
+___________________________________________
+
+Epoch(456)   step-time 0.01s  loss 4.389 ppl 79.02
+loading model.........
+Validation: Epoch(456) step-time 0.00s  loss 6.129 ppl 1319.08
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(457)   step-time 0.01s  loss 4.519 ppl 74.58
+loading model.........
+Validation: Epoch(457) step-time 0.00s  loss 6.266 ppl 1574.56
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(458)   step-time 0.01s  loss 4.365 ppl 74.34
+loading model.........
+Validation: Epoch(458) step-time 0.00s  loss 6.138 ppl 1376.50
+
+___________________________________________
+
+Epoch(459)   step-time 0.01s  loss 4.281 ppl 75.07
+loading model.........
+Validation: Epoch(459) step-time 0.00s  loss 5.978 ppl 1156.68
+
+___________________________________________
+
+Epoch(460)   step-time 0.01s  loss 4.564 ppl 74.50
+loading model.........
+Validation: Epoch(460) step-time 0.00s  loss 6.007 ppl 1215.41
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(461)   step-time 0.01s  loss 4.150 ppl 72.27
+loading model.........
+Validation: Epoch(461) step-time 0.00s  loss 6.201 ppl 1553.68
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(462)   step-time 0.01s  loss 4.224 ppl 73.60
+loading model.........
+Validation: Epoch(462) step-time 0.00s  loss 6.207 ppl 1590.74
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(463)   step-time 0.01s  loss 4.475 ppl 72.92
+loading model.........
+Validation: Epoch(463) step-time 0.00s  loss 6.048 ppl 1337.17
+
+___________________________________________
+
+Epoch(464)   step-time 0.01s  loss 4.173 ppl 69.84
+loading model.........
+Validation: Epoch(464) step-time 0.00s  loss 6.005 ppl 1291.18
+
+___________________________________________
+
+Epoch(465)   step-time 0.01s  loss 4.063 ppl 73.27
+loading model.........
+Validation: Epoch(465) step-time 0.00s  loss 5.952 ppl 1230.42
+
+___________________________________________
+
+Epoch(466)   step-time 0.01s  loss 4.096 ppl 71.51
+loading model.........
+Validation: Epoch(466) step-time 0.00s  loss 5.957 ppl 1257.25
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(467)   step-time 0.01s  loss 3.948 ppl 67.98
+loading model.........
+Validation: Epoch(467) step-time 0.00s  loss 6.078 ppl 1475.52
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(468)   step-time 0.01s  loss 4.181 ppl 67.82
+loading model.........
+Validation: Epoch(468) step-time 0.00s  loss 6.186 ppl 1705.63
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(469)   step-time 0.01s  loss 4.166 ppl 69.29
+loading model.........
+Validation: Epoch(469) step-time 0.00s  loss 6.101 ppl 1565.28
+
+___________________________________________
+
+Epoch(470)   step-time 0.01s  loss 3.588 ppl 67.03
+loading model.........
+Validation: Epoch(470) step-time 0.00s  loss 6.026 ppl 1451.60
+
+___________________________________________
+
+Epoch(471)   step-time 0.01s  loss 3.859 ppl 66.50
+loading model.........
+Validation: Epoch(471) step-time 0.00s  loss 6.000 ppl 1428.31
+
+___________________________________________
+
+Epoch(472)   step-time 0.01s  loss 3.572 ppl 64.92
+loading model.........
+Validation: Epoch(472) step-time 0.00s  loss 5.965 ppl 1390.18
+
+___________________________________________
+
+Epoch(473)   step-time 0.01s  loss 3.991 ppl 62.22
+loading model.........
+Validation: Epoch(473) step-time 0.00s  loss 5.906 ppl 1314.12
+
+___________________________________________
+
+Epoch(474)   step-time 0.01s  loss 3.764 ppl 64.01
+loading model.........
+Validation: Epoch(474) step-time 0.00s  loss 5.836 ppl 1226.01
+
+___________________________________________
+
+Epoch(475)   step-time 0.01s  loss 3.915 ppl 63.52
+loading model.........
+Validation: Epoch(475) step-time 0.00s  loss 5.778 ppl 1158.48
+
+___________________________________________
+
+Epoch(476)   step-time 0.01s  loss 3.472 ppl 61.64
+loading model.........
+Validation: Epoch(476) step-time 0.00s  loss 5.759 ppl 1149.10
+
+___________________________________________
+
+Epoch(477)   step-time 0.01s  loss 3.976 ppl 61.19
+loading model.........
+Validation: Epoch(477) step-time 0.00s  loss 5.789 ppl 1209.90
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(478)   step-time 0.01s  loss 4.010 ppl 61.70
+loading model.........
+Validation: Epoch(478) step-time 0.00s  loss 5.875 ppl 1365.79
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(479)   step-time 0.01s  loss 3.652 ppl 60.15
+loading model.........
+Validation: Epoch(479) step-time 0.00s  loss 6.006 ppl 1629.52
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(480)   step-time 0.01s  loss 3.459 ppl 60.93
+loading model.........
+Validation: Epoch(480) step-time 0.00s  loss 6.033 ppl 1709.47
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(481)   step-time 0.01s  loss 3.728 ppl 58.32
+loading model.........
+Validation: Epoch(481) step-time 0.00s  loss 5.938 ppl 1543.56
+
+___________________________________________
+
+Epoch(482)   step-time 0.01s  loss 3.807 ppl 58.49
+loading model.........
+Validation: Epoch(482) step-time 0.00s  loss 5.782 ppl 1292.48
+
+___________________________________________
+
+Epoch(483)   step-time 0.01s  loss 3.845 ppl 56.67
+loading model.........
+Validation: Epoch(483) step-time 0.00s  loss 5.707 ppl 1194.88
+
+___________________________________________
+
+Epoch(484)   step-time 0.01s  loss 3.499 ppl 54.79
+loading model.........
+Validation: Epoch(484) step-time 0.00s  loss 5.688 ppl 1185.22
+
+___________________________________________
+
+Epoch(485)   step-time 0.01s  loss 3.884 ppl 57.45
+loading model.........
+Validation: Epoch(485) step-time 0.00s  loss 5.721 ppl 1252.10
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(486)   step-time 0.01s  loss 3.703 ppl 54.07
+loading model.........
+Validation: Epoch(486) step-time 0.00s  loss 5.715 ppl 1260.81
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(487)   step-time 0.01s  loss 3.461 ppl 51.79
+loading model.........
+Validation: Epoch(487) step-time 0.00s  loss 5.756 ppl 1347.65
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(488)   step-time 0.01s  loss 3.718 ppl 52.97
+loading model.........
+Validation: Epoch(488) step-time 0.00s  loss 5.807 ppl 1458.58
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(489)   step-time 0.01s  loss 3.615 ppl 53.11
+loading model.........
+Validation: Epoch(489) step-time 0.00s  loss 5.858 ppl 1578.57
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(490)   step-time 0.01s  loss 3.899 ppl 52.65
+loading model.........
+Validation: Epoch(490) step-time 0.00s  loss 5.887 ppl 1661.60
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(491)   step-time 0.01s  loss 3.837 ppl 51.08
+loading model.........
+Validation: Epoch(491) step-time 0.00s  loss 5.921 ppl 1760.27
+Earlystop count: 7
+
+___________________________________________
+
+Epoch(492)   step-time 0.01s  loss 3.795 ppl 51.36
+loading model.........
+Validation: Epoch(492) step-time 0.00s  loss 5.813 ppl 1558.64
+
+___________________________________________
+
+Epoch(493)   step-time 0.01s  loss 3.772 ppl 51.85
+loading model.........
+Validation: Epoch(493) step-time 0.00s  loss 5.682 ppl 1340.25
+
+___________________________________________
+
+Epoch(494)   step-time 0.01s  loss 3.356 ppl 49.90
+loading model.........
+Validation: Epoch(494) step-time 0.00s  loss 5.592 ppl 1214.31
+
+___________________________________________
+
+Epoch(495)   step-time 0.01s  loss 3.921 ppl 51.24
+loading model.........
+Validation: Epoch(495) step-time 0.00s  loss 5.589 ppl 1226.08
+Earlystop count: 1
+
+___________________________________________
+
+Epoch(496)   step-time 0.01s  loss 3.572 ppl 48.26
+loading model.........
+Validation: Epoch(496) step-time 0.00s  loss 5.652 ppl 1348.65
+Earlystop count: 2
+
+___________________________________________
+
+Epoch(497)   step-time 0.01s  loss 3.750 ppl 47.42
+loading model.........
+Validation: Epoch(497) step-time 0.00s  loss 5.765 ppl 1581.48
+Earlystop count: 3
+
+___________________________________________
+
+Epoch(498)   step-time 0.01s  loss 3.689 ppl 47.83
+loading model.........
+Validation: Epoch(498) step-time 0.00s  loss 5.805 ppl 1688.37
+Earlystop count: 4
+
+___________________________________________
+
+Epoch(499)   step-time 0.01s  loss 3.414 ppl 45.96
+loading model.........
+Validation: Epoch(499) step-time 0.00s  loss 5.809 ppl 1722.83
+Earlystop count: 5
+
+___________________________________________
+
+Epoch(500)   step-time 0.01s  loss 3.690 ppl 46.33
+loading model.........
+Validation: Epoch(500) step-time 0.00s  loss 5.816 ppl 1764.66
+Earlystop count: 6
+
+___________________________________________
+
+Epoch(501)   step-time 0.01s  loss 3.628 ppl 45.89
+loading model.........
+Validation: Epoch(501) step-time 0.00s  loss 5.806 ppl 1768.76
+Earlystop count: 7
+
+___________________________________________
+
+Epoch(502)   step-time 0.01s  loss 3.401 ppl 45.56
+loading model.........
+Validation: Epoch(502) step-time 0.00s  loss 5.823 ppl 1834.68
+Earlystop count: 8
+
+___________________________________________
+
+Epoch(503)   step-time 0.01s  loss 3.566 ppl 46.95
+loading model.........
+Validation: Epoch(503) step-time 0.00s  loss 5.865 ppl 1965.92
+Earlystop count: 9
+
+___________________________________________
